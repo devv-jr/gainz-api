@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 from app.routers import exercises
 
 load_dotenv()
-
-origins_env = os.getenv("ORIGINS", "").split(",")
+# Leer ORIGINS como string y parsear una sola vez
+origins_env = os.getenv("ORIGINS", "")
 origins = [url.strip() for url in origins_env.split(",") if url.strip()]
 
 app = FastAPI(
