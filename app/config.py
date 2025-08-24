@@ -20,10 +20,21 @@ class Settings:
     ADMIN_PASS: str = os.getenv("ADMIN_PASS", "password")
     ORIGINS = os.getenv("ORIGINS", "").split(",")
 
-    # Usar DATABASE_URL si está definido (en Render), si no SQLite local
+    # Database configuration
     DATABASE_URL: str = os.getenv("DATABASE_URL") or str(
         Path(__file__).resolve().parent.parent / "data" / "exercises.db"
     )
+    
+    @property
+    def is_production(self) -> bool:
+        """Check if running in production (PostgreSQL)"""
+        return self.DATABASE_URL.startswith(('postgresql://', 'postgres://'))
+    
+    @property
+    def is_development(self) -> bool:
+        """Check if running in development (SQLite)"""
+        return not self.is_production
+
     MAX_FILE_SIZE: int = 5 * 1024 * 1024  # 5MB
     ALLOWED_FILE_TYPES = ["image/jpeg", "image/png", "image/webp"]
 

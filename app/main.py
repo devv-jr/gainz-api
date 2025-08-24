@@ -16,12 +16,20 @@ from app.routers import exercises_v2
 from app.routers import images
 from app.routers import auth_router
 from app.config import setup_logging, settings
+from app.database import init_database
 
 # Configurar logging
 setup_logging()
 logger = logging.getLogger(__name__)
 
 load_dotenv()
+
+# Initialize database tables
+try:
+    init_database()
+    logger.info("Database initialized successfully")
+except Exception as e:
+    logger.error(f"Database initialization failed: {e}")
 
 # Rate limiting
 limiter = Limiter(key_func=get_remote_address)
