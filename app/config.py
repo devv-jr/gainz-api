@@ -20,10 +20,22 @@ class Settings:
     ADMIN_PASS: str = os.getenv("ADMIN_PASS", "password")
     ORIGINS = os.getenv("ORIGINS", "").split(",")
 
-    # Usar DATABASE_URL si está definido (en Render), si no SQLite local
-    DATABASE_URL: str = os.getenv("DATABASE_URL") or str(
-        Path(__file__).resolve().parent.parent / "data" / "exercises.db"
-    )
+    # Configuración de base de datos mejorada
+    DATABASE_URL: str = os.getenv("DATABASE_URL")
+    
+    # Si no hay DATABASE_URL (desarrollo local), usar SQLite
+    if not DATABASE_URL:
+        DATABASE_URL = f"sqlite:///{Path(__file__).resolve().parent.parent / 'data' / 'exercises.db'}"
+    
+    # Detectar el tipo de base de datos
+    @property
+    def is_postgresql(self) -> bool:
+        return self.DATABASE_URL.startswith(('postgresql://', 'postgres://'))
+    
+    @property
+    def is_sqlite(self) -> bool:
+        return self.DATABASE_URL.startswith('sqlite://')
+
     MAX_FILE_SIZE: int = 5 * 1024 * 1024  # 5MB
     ALLOWED_FILE_TYPES = ["image/jpeg", "image/png", "image/webp"]
 
