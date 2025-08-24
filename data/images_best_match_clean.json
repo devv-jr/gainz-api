@@ -1,0 +1,1295 @@
+[
+  {
+    "image": "/static/images/espalda/jalon-al-pecho-agarre-cerrado.png",
+    "filename": "jalon-al-pecho-agarre-cerrado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 117,
+      "slug": "jalon-al-pecho-agarre-cerrado",
+      "name": "Jalon Al Pecho Agarre Cerrado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/remo-inclinado-con-mancuernas.png",
+    "filename": "remo-inclinado-con-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 116,
+      "slug": "remo-inclinado-con-mancuernas",
+      "name": "Remo Inclinado Con Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/dominadas-agarre-supinado.png",
+    "filename": "dominadas-agarre-supinado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 115,
+      "slug": "dominadas-agarre-supinado",
+      "name": "Dominadas Agarre Supinado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/jalon-polea-con-cuerda.png",
+    "filename": "jalon-polea-con-cuerda",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 114,
+      "slug": "jalon-polea-con-cuerda",
+      "name": "Jalon Polea Con Cuerda"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/jalon-al-pecho-agarre-invertido.png",
+    "filename": "jalon-al-pecho-agarre-invertido",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 113,
+      "slug": "jalon-al-pecho-agarre-invertido",
+      "name": "Jalon Al Pecho Agarre Invertido"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/remo-con-mancuerna-una-mano.png",
+    "filename": "remo-con-mancuerna-una-mano",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 112,
+      "slug": "remo-con-mancuerna-una-mano",
+      "name": "Remo Con Mancuerna Una Mano"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/peso-muerto-sumo.png",
+    "filename": "peso-muerto-sumo",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 111,
+      "slug": "peso-muerto-sumo",
+      "name": "Peso Muerto Sumo"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/remo-con-barra-agarre-supinado.png",
+    "filename": "remo-con-barra-agarre-supinado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 110,
+      "slug": "remo-con-barra-agarre-supinado",
+      "name": "Remo Con Barra Agarre Supinado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/peso-muerto.png",
+    "filename": "peso-muerto",
+    "best_match": {
+      "source_file": "data/exercises_v2_with_images.json",
+      "id": 6,
+      "slug": "peso-muerto",
+      "name": "Peso muerto"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/pullover-con-barra.png",
+    "filename": "pullover-con-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 108,
+      "slug": "pullover-con-barra",
+      "name": "Pullover Con Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/jalon-dorsal-con-brazos-rectos.png",
+    "filename": "jalon-dorsal-con-brazos-rectos",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 107,
+      "slug": "jalon-dorsal-con-brazos-rectos",
+      "name": "Jalon Dorsal Con Brazos Rectos"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/jalon-al-pecho-agarre-ancho.png",
+    "filename": "jalon-al-pecho-agarre-ancho",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 106,
+      "slug": "jalon-al-pecho-agarre-ancho",
+      "name": "Jalon Al Pecho Agarre Ancho"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/dominadas.png",
+    "filename": "dominadas",
+    "best_match": {
+      "source_file": "data/exercises_v2_with_images.json",
+      "id": 5,
+      "slug": "dominadas",
+      "name": "Dominadas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/remo-maquina.png",
+    "filename": "remo-maquina",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 104,
+      "slug": "remo-maquina",
+      "name": "Remo Maquina"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/encogimiento-de-hombros-barra.png",
+    "filename": "encogimiento-de-hombros-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 103,
+      "slug": "encogimiento-de-hombros-barra",
+      "name": "Encogimiento De Hombros Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/peso-muerto-con-mancuernas.png",
+    "filename": "peso-muerto-con-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 102,
+      "slug": "peso-muerto-con-mancuernas",
+      "name": "Peso Muerto Con Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/remo-en-barra-t.png",
+    "filename": "remo-en-barra-t",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 101,
+      "slug": "remo-en-barra-t",
+      "name": "Remo En Barra T"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/encogimiento-de-hombros-mancuernas.png",
+    "filename": "encogimiento-de-hombros-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 100,
+      "slug": "encogimiento-de-hombros-mancuernas",
+      "name": "Encogimiento De Hombros Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/pullover-con-mancuerna.png",
+    "filename": "pullover-con-mancuerna",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 99,
+      "slug": "pullover-con-mancuerna",
+      "name": "Pullover Con Mancuerna"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/peso-muerto-con-barra-hexagonal.png",
+    "filename": "peso-muerto-con-barra-hexagonal",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 98,
+      "slug": "peso-muerto-con-barra-hexagonal",
+      "name": "Peso Muerto Con Barra Hexagonal"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/espalda/remo-con-barra.png",
+    "filename": "remo-con-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 97,
+      "slug": "remo-con-barra",
+      "name": "Remo Con Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/press-frances-sentado-barra.png",
+    "filename": "press-frances-sentado-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 96,
+      "slug": "press-frances-sentado-barra",
+      "name": "Press Frances Sentado Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/extension-triceps-agarre-inverso-barra.png",
+    "filename": "extension-triceps-agarre-inverso-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 95,
+      "slug": "extension-triceps-agarre-inverso-barra",
+      "name": "Extension Triceps Agarre Inverso Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/extension-triceps-tumbado.png",
+    "filename": "extension-triceps-tumbado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 94,
+      "slug": "extension-triceps-tumbado",
+      "name": "Extension Triceps Tumbado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/extension-triceps-cable-una-mano-supinado.png",
+    "filename": "extension-triceps-cable-una-mano-supinado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 93,
+      "slug": "extension-triceps-cable-una-mano-supinado",
+      "name": "Extension Triceps Cable Una Mano Supinado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/extension-triceps-mancuernas-sentado.png",
+    "filename": "extension-triceps-mancuernas-sentado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 92,
+      "slug": "extension-triceps-mancuernas-sentado",
+      "name": "Extension Triceps Mancuernas Sentado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/extension-triceps-cuerda.png",
+    "filename": "extension-triceps-cuerda",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 91,
+      "slug": "extension-triceps-cuerda",
+      "name": "Extension Triceps Cuerda"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/extension-triceps-cable-una-mano.png",
+    "filename": "extension-triceps-cable-una-mano",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 90,
+      "slug": "extension-triceps-cable-una-mano",
+      "name": "Extension Triceps Cable Una Mano"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/extension-triceps-polea.png",
+    "filename": "extension-triceps-polea",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 89,
+      "slug": "extension-triceps-polea",
+      "name": "Extension Triceps Polea"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/press-banca-cerrado.png",
+    "filename": "press-banca-cerrado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 88,
+      "slug": "press-banca-cerrado",
+      "name": "Press Banca Cerrado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/fondos-banco.png",
+    "filename": "fondos-banco",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 87,
+      "slug": "fondos-banco",
+      "name": "Fondos Banco"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/fondos-barras-paralelas.png",
+    "filename": "fondos-barras-paralelas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 86,
+      "slug": "fondos-barras-paralelas",
+      "name": "Fondos Barras Paralelas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/extension-triceps-mancuernas-tumbado.png",
+    "filename": "extension-triceps-mancuernas-tumbado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 85,
+      "slug": "extension-triceps-mancuernas-tumbado",
+      "name": "Extension Triceps Mancuernas Tumbado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/triceps/patadas-traseras.png",
+    "filename": "patadas-traseras",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 84,
+      "slug": "patadas-traseras",
+      "name": "Patadas Traseras"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/flexiones.png",
+    "filename": "flexiones",
+    "best_match": {
+      "source_file": "data/exercises_v2_with_images.json",
+      "id": 2,
+      "slug": "flexiones",
+      "name": "Flexiones"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/press-declinado-mancuernas.png",
+    "filename": "press-declinado-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 82,
+      "slug": "press-declinado-mancuernas",
+      "name": "Press Declinado Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/press-declinado-barra.png",
+    "filename": "press-declinado-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 81,
+      "slug": "press-declinado-barra",
+      "name": "Press Declinado Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/cruce-poleas.png",
+    "filename": "cruce-poleas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 80,
+      "slug": "cruce-poleas",
+      "name": "Cruce Poleas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/peck-deck.png",
+    "filename": "peck-deck",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 79,
+      "slug": "peck-deck",
+      "name": "Peck Deck"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/aperturas-mancuernas-inclinado.png",
+    "filename": "aperturas-mancuernas-inclinado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 78,
+      "slug": "aperturas-mancuernas-inclinado",
+      "name": "Aperturas Mancuernas Inclinado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/press-banca-inclinado.png",
+    "filename": "press-banca-inclinado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 77,
+      "slug": "press-banca-inclinado",
+      "name": "Press Banca Inclinado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/press-banca-mancuernas.png",
+    "filename": "press-banca-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 76,
+      "slug": "press-banca-mancuernas",
+      "name": "Press Banca Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/aperturas-mancuernas.png",
+    "filename": "aperturas-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 75,
+      "slug": "aperturas-mancuernas",
+      "name": "Aperturas Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/press-maquina-sentado.png",
+    "filename": "press-maquina-sentado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 74,
+      "slug": "press-maquina-sentado",
+      "name": "Press Maquina Sentado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/press-banca.png",
+    "filename": "press-banca",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 73,
+      "slug": "press-banca",
+      "name": "Press Banca"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/pectorales/press-inclinado-mancuernas.png",
+    "filename": "press-inclinado-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 72,
+      "slug": "press-inclinado-mancuernas",
+      "name": "Press Inclinado Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-de-cable-en-polea-baja-una-mano.png",
+    "filename": "curl-de-cable-en-polea-baja-una-mano",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 71,
+      "slug": "curl-de-cable-en-polea-baja-una-mano",
+      "name": "Curl De Cable En Polea Baja Una Mano"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-con-cuerda-polea.png",
+    "filename": "curl-con-cuerda-polea",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 70,
+      "slug": "curl-con-cuerda-polea",
+      "name": "Curl Con Cuerda Polea"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-de-cable-con-barra-recta-polea-baja.png",
+    "filename": "curl-de-cable-con-barra-recta-polea-baja",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 69,
+      "slug": "curl-de-cable-con-barra-recta-polea-baja",
+      "name": "Curl De Cable Con Barra Recta Polea Baja"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-con-barra-z.png",
+    "filename": "curl-con-barra-z",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 68,
+      "slug": "curl-con-barra-z",
+      "name": "Curl Con Barra Z"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-alterno-mancuernas.png",
+    "filename": "curl-alterno-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 67,
+      "slug": "curl-alterno-mancuernas",
+      "name": "Curl Alterno Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-predicador-con-barra-z.png",
+    "filename": "curl-predicador-con-barra-z",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 66,
+      "slug": "curl-predicador-con-barra-z",
+      "name": "Curl Predicador Con Barra Z"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-con-barra.png",
+    "filename": "curl-con-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 65,
+      "slug": "curl-con-barra",
+      "name": "Curl Con Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-concentrado-mancuernas.png",
+    "filename": "curl-concentrado-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 64,
+      "slug": "curl-concentrado-mancuernas",
+      "name": "Curl Concentrado Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-barra-invertido.png",
+    "filename": "curl-barra-invertido",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 63,
+      "slug": "curl-barra-invertido",
+      "name": "Curl Barra Invertido"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-inclinado-mancuernas.png",
+    "filename": "curl-inclinado-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 62,
+      "slug": "curl-inclinado-mancuernas",
+      "name": "Curl Inclinado Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-muñeca-con-barra-sentado.png",
+    "filename": "curl-muñeca-con-barra-sentado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 61,
+      "slug": "curl-muñeca-con-barra-sentado",
+      "name": "Curl Muñeca Con Barra Sentado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/extension-de-muñeca-barra-sentado.png",
+    "filename": "extension-de-muñeca-barra-sentado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 60,
+      "slug": "extension-de-muñeca-barra-sentado",
+      "name": "Extension De Muñeca Barra Sentado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-de-cable-polea-alta-de-pie.png",
+    "filename": "curl-de-cable-polea-alta-de-pie",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 59,
+      "slug": "curl-de-cable-polea-alta-de-pie",
+      "name": "Curl De Cable Polea Alta De Pie"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/biceps/curl-alterno-martillo-mancuernas.png",
+    "filename": "curl-alterno-martillo-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 58,
+      "slug": "curl-alterno-martillo-mancuernas",
+      "name": "Curl Alterno Martillo Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/elevaciones-frontales-cable-a-una-mano.png",
+    "filename": "elevaciones-frontales-cable-a-una-mano",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 57,
+      "slug": "elevaciones-frontales-cable-a-una-mano",
+      "name": "Elevaciones Frontales Cable A Una Mano"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/elevaciones-posteriores-pajaro.png",
+    "filename": "elevaciones-posteriores-pajaro",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 56,
+      "slug": "elevaciones-posteriores-pajaro",
+      "name": "Elevaciones Posteriores Pajaro"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/press-de-hombro-mancuernas.png",
+    "filename": "press-de-hombro-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 55,
+      "slug": "press-de-hombro-mancuernas",
+      "name": "Press De Hombro Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/press-militar-mancuernas.png",
+    "filename": "press-militar-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 54,
+      "slug": "press-militar-mancuernas",
+      "name": "Press Militar Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/elevaciones-frontales.png",
+    "filename": "elevaciones-frontales",
+    "best_match": {
+      "source_file": "data/exercises.json",
+      "id": 11,
+      "slug": null,
+      "name": "Elevaciones frontales"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/press-militar-tras-nuca.png",
+    "filename": "press-militar-tras-nuca",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 52,
+      "slug": "press-militar-tras-nuca",
+      "name": "Press Militar Tras Nuca"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/elevaciones-frontales-polea-baja-neutro.png",
+    "filename": "elevaciones-frontales-polea-baja-neutro",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 51,
+      "slug": "elevaciones-frontales-polea-baja-neutro",
+      "name": "Elevaciones Frontales Polea Baja Neutro"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/press-militar-con-barra-sentado.png",
+    "filename": "press-militar-con-barra-sentado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 50,
+      "slug": "press-militar-con-barra-sentado",
+      "name": "Press Militar Con Barra Sentado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/elevaciones-frontales-barra.png",
+    "filename": "elevaciones-frontales-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 49,
+      "slug": "elevaciones-frontales-barra",
+      "name": "Elevaciones Frontales Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/elevaciones-frontales-agarre-neutro.png",
+    "filename": "elevaciones-frontales-agarre-neutro",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 48,
+      "slug": "elevaciones-frontales-agarre-neutro",
+      "name": "Elevaciones Frontales Agarre Neutro"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/press-militar-de-pie.png",
+    "filename": "press-militar-de-pie",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 47,
+      "slug": "press-militar-de-pie",
+      "name": "Press Militar De Pie"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/remo-alto-barra.png",
+    "filename": "remo-alto-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 46,
+      "slug": "remo-alto-barra",
+      "name": "Remo Alto Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/elevaciones-laterales-cable-bajo.png",
+    "filename": "elevaciones-laterales-cable-bajo",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 45,
+      "slug": "elevaciones-laterales-cable-bajo",
+      "name": "Elevaciones Laterales Cable Bajo"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/cruces-inversos-polea-alta.png",
+    "filename": "cruces-inversos-polea-alta",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 44,
+      "slug": "cruces-inversos-polea-alta",
+      "name": "Cruces Inversos Polea Alta"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/elevaciones-laterales.png",
+    "filename": "elevaciones-laterales",
+    "best_match": {
+      "source_file": "data/exercises.json",
+      "id": 10,
+      "slug": null,
+      "name": "Elevaciones laterales"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/press-militar.png",
+    "filename": "press-militar",
+    "best_match": {
+      "source_file": "data/exercises.json",
+      "id": 9,
+      "slug": null,
+      "name": "Press militar"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/hombros/press-de-hombros-en-maquina-smith.png",
+    "filename": "press-de-hombros-en-maquina-smith",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 41,
+      "slug": "press-de-hombros-en-maquina-smith",
+      "name": "Press De Hombros En Maquina Smith"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadilla-goblet-mancuernra.png",
+    "filename": "sentadilla-goblet-mancuernra",
+    "best_match": {
+      "source_file": "data/exercises_complete_from_images.json",
+      "id": 40,
+      "slug": "sentadilla-goblet-mancuerna",
+      "name": "Sentadilla Goblet Mancuerna"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/caminata-de-pato.png",
+    "filename": "caminata-de-pato",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 39,
+      "slug": "caminata-de-pato",
+      "name": "Caminata De Pato"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadilla-frontal.png",
+    "filename": "sentadilla-frontal",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 38,
+      "slug": "sentadilla-frontal",
+      "name": "Sentadilla Frontal"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/elevaciones-de-rodilla.png",
+    "filename": "elevaciones-de-rodilla",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 37,
+      "slug": "elevaciones-de-rodilla",
+      "name": "Elevaciones De Rodilla"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadillas-con-balon.png",
+    "filename": "sentadillas-con-balon",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 36,
+      "slug": "sentadillas-con-balon",
+      "name": "Sentadillas Con Balon"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/curl-de-femoral.png",
+    "filename": "curl-de-femoral",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 35,
+      "slug": "curl-de-femoral",
+      "name": "Curl De Femoral"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/peso-muerto-rumano-mancuernas.png",
+    "filename": "peso-muerto-rumano-mancuernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 34,
+      "slug": "peso-muerto-rumano-mancuernas",
+      "name": "Peso Muerto Rumano Mancuernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadilla-sobre-la-pared.png",
+    "filename": "sentadilla-sobre-la-pared",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 33,
+      "slug": "sentadilla-sobre-la-pared",
+      "name": "Sentadilla Sobre La Pared"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/salto-rodillas-al-pecho.png",
+    "filename": "salto-rodillas-al-pecho",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 32,
+      "slug": "salto-rodillas-al-pecho",
+      "name": "Salto Rodillas Al Pecho"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/zancada.png",
+    "filename": "zancada",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 31,
+      "slug": "zancada",
+      "name": "Zancada"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadilla-hack.png",
+    "filename": "sentadilla-hack",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 30,
+      "slug": "sentadilla-hack",
+      "name": "Sentadilla Hack"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/contragolpe-con-cable.png",
+    "filename": "contragolpe-con-cable",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 29,
+      "slug": "contragolpe-con-cable",
+      "name": "Contragolpe Con Cable"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadilla-con-mini-banda.png",
+    "filename": "sentadilla-con-mini-banda",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 28,
+      "slug": "sentadilla-con-mini-banda",
+      "name": "Sentadilla Con Mini Banda"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadilla-con-salto.png",
+    "filename": "sentadilla-con-salto",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 27,
+      "slug": "sentadilla-con-salto",
+      "name": "Sentadilla Con Salto"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/peso-muerto-rumano-barra.png",
+    "filename": "peso-muerto-rumano-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 26,
+      "slug": "peso-muerto-rumano-barra",
+      "name": "Peso Muerto Rumano Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadillas-peso-corporal.png",
+    "filename": "sentadillas-peso-corporal",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 25,
+      "slug": "sentadillas-peso-corporal",
+      "name": "Sentadillas Peso Corporal"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/puente-con-peso-corporal.png",
+    "filename": "puente-con-peso-corporal",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 24,
+      "slug": "puente-con-peso-corporal",
+      "name": "Puente Con Peso Corporal"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/burpees.png",
+    "filename": "burpees",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 23,
+      "slug": "burpees",
+      "name": "Burpees"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/elevaciones-de-caderas-en-smith.png",
+    "filename": "elevaciones-de-caderas-en-smith",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 22,
+      "slug": "elevaciones-de-caderas-en-smith",
+      "name": "Elevaciones De Caderas En Smith"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/ejercicio-superman-cuadrupedia.png",
+    "filename": "ejercicio-superman-cuadrupedia",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 21,
+      "slug": "ejercicio-superman-cuadrupedia",
+      "name": "Ejercicio Superman Cuadrupedia"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadilla-bulgara-barra.png",
+    "filename": "sentadilla-bulgara-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 20,
+      "slug": "sentadilla-bulgara-barra",
+      "name": "Sentadilla Bulgara Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/extension-a-una-pierna.png",
+    "filename": "extension-a-una-pierna",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 19,
+      "slug": "extension-a-una-pierna",
+      "name": "Extension A Una Pierna"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadilla-bulgara.png",
+    "filename": "sentadilla-bulgara",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 18,
+      "slug": "sentadilla-bulgara",
+      "name": "Sentadilla Bulgara"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/elevaciones-de-caderas-con-barra.png",
+    "filename": "elevaciones-de-caderas-con-barra",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 17,
+      "slug": "elevaciones-de-caderas-con-barra",
+      "name": "Elevaciones De Caderas Con Barra"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/curl-de-piernas-sentado.png",
+    "filename": "curl-de-piernas-sentado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 16,
+      "slug": "curl-de-piernas-sentado",
+      "name": "Curl De Piernas Sentado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/sentadilla.png",
+    "filename": "sentadilla",
+    "best_match": {
+      "source_file": "data/exercises_v2_with_images.json",
+      "id": 13,
+      "slug": "sentadilla",
+      "name": "Sentadilla"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/extension-de-piernas.png",
+    "filename": "extension-de-piernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 14,
+      "slug": "extension-de-piernas",
+      "name": "Extension De Piernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/puentes-a-una-pierna.png",
+    "filename": "puentes-a-una-pierna",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 13,
+      "slug": "puentes-a-una-pierna",
+      "name": "Puentes A Una Pierna"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/prensa.png",
+    "filename": "prensa",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 12,
+      "slug": "prensa",
+      "name": "Prensa"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/piernas/.gitkeep",
+    "filename": ".gitkeep",
+    "best_match": null,
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/gemelos/elevacion-de-gemelos-de-pie.png",
+    "filename": "elevacion-de-gemelos-de-pie",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 11,
+      "slug": "elevacion-de-gemelos-de-pie",
+      "name": "Elevacion De Gemelos De Pie"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/gemelos/elevacion-de-gemelos-sentado.png",
+    "filename": "elevacion-de-gemelos-sentado",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 10,
+      "slug": "elevacion-de-gemelos-sentado",
+      "name": "Elevacion De Gemelos Sentado"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/abs/crunch.png",
+    "filename": "crunch",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 9,
+      "slug": "crunch",
+      "name": "Crunch"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/abs/plancha.png",
+    "filename": "plancha",
+    "best_match": {
+      "source_file": "data/exercises_v2_with_images.json",
+      "id": 21,
+      "slug": "plancha",
+      "name": "Plancha"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/abs/abdominales-cuerda-polea-alta.png",
+    "filename": "abdominales-cuerda-polea-alta",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 7,
+      "slug": "abdominales-cuerda-polea-alta",
+      "name": "Abdominales Cuerda Polea Alta"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/abs/abdominales-brazos-estirados.png",
+    "filename": "abdominales-brazos-estirados",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 6,
+      "slug": "abdominales-brazos-estirados",
+      "name": "Abdominales Brazos Estirados"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/abs/encogimientos-de-rodillas.png",
+    "filename": "encogimientos-de-rodillas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 5,
+      "slug": "encogimientos-de-rodillas",
+      "name": "Encogimientos De Rodillas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/abs/plancha-con-flexion.png",
+    "filename": "plancha-con-flexion",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 4,
+      "slug": "plancha-con-flexion",
+      "name": "Plancha Con Flexion"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/abs/elevacion-de-piernas.png",
+    "filename": "elevacion-de-piernas",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 3,
+      "slug": "elevacion-de-piernas",
+      "name": "Elevacion De Piernas"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/abs/crunch-oblicuo.png",
+    "filename": "crunch-oblicuo",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 2,
+      "slug": "crunch-oblicuo",
+      "name": "Crunch Oblicuo"
+    },
+    "ambiguous": false
+  },
+  {
+    "image": "/static/images/abs/abdominales-maquina.png",
+    "filename": "abdominales-maquina",
+    "best_match": {
+      "source_file": "data/exercises_complete.json",
+      "id": 1,
+      "slug": "abdominales-maquina",
+      "name": "Abdominales Maquina"
+    },
+    "ambiguous": false
+  }
+]

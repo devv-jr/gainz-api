@@ -1,0 +1,119 @@
+image,filename,match_source,match_id,match_slug,match_name
+/static/images/espalda/jalon-al-pecho-agarre-cerrado.png,jalon-al-pecho-agarre-cerrado,data/exercises_complete.json,117,jalon-al-pecho-agarre-cerrado,Jalon Al Pecho Agarre Cerrado
+/static/images/espalda/remo-inclinado-con-mancuernas.png,remo-inclinado-con-mancuernas,data/exercises_complete.json,116,remo-inclinado-con-mancuernas,Remo Inclinado Con Mancuernas
+/static/images/espalda/dominadas-agarre-supinado.png,dominadas-agarre-supinado,data/exercises_complete.json,115,dominadas-agarre-supinado,Dominadas Agarre Supinado
+/static/images/espalda/jalon-polea-con-cuerda.png,jalon-polea-con-cuerda,data/exercises_complete.json,114,jalon-polea-con-cuerda,Jalon Polea Con Cuerda
+/static/images/espalda/jalon-al-pecho-agarre-invertido.png,jalon-al-pecho-agarre-invertido,data/exercises_complete.json,113,jalon-al-pecho-agarre-invertido,Jalon Al Pecho Agarre Invertido
+/static/images/espalda/remo-con-mancuerna-una-mano.png,remo-con-mancuerna-una-mano,data/exercises_complete.json,112,remo-con-mancuerna-una-mano,Remo Con Mancuerna Una Mano
+/static/images/espalda/peso-muerto-sumo.png,peso-muerto-sumo,data/exercises_complete.json,111,peso-muerto-sumo,Peso Muerto Sumo
+/static/images/espalda/remo-con-barra-agarre-supinado.png,remo-con-barra-agarre-supinado,data/exercises_complete.json,110,remo-con-barra-agarre-supinado,Remo Con Barra Agarre Supinado
+/static/images/espalda/peso-muerto.png,peso-muerto,data/exercises_v2_with_images.json,6,peso-muerto,Peso muerto
+/static/images/espalda/pullover-con-barra.png,pullover-con-barra,data/exercises_complete.json,108,pullover-con-barra,Pullover Con Barra
+/static/images/espalda/jalon-dorsal-con-brazos-rectos.png,jalon-dorsal-con-brazos-rectos,data/exercises_complete.json,107,jalon-dorsal-con-brazos-rectos,Jalon Dorsal Con Brazos Rectos
+/static/images/espalda/jalon-al-pecho-agarre-ancho.png,jalon-al-pecho-agarre-ancho,data/exercises_complete.json,106,jalon-al-pecho-agarre-ancho,Jalon Al Pecho Agarre Ancho
+/static/images/espalda/dominadas.png,dominadas,data/exercises_v2_with_images.json,5,dominadas,Dominadas
+/static/images/espalda/remo-maquina.png,remo-maquina,data/exercises_complete.json,104,remo-maquina,Remo Maquina
+/static/images/espalda/encogimiento-de-hombros-barra.png,encogimiento-de-hombros-barra,data/exercises_complete.json,103,encogimiento-de-hombros-barra,Encogimiento De Hombros Barra
+/static/images/espalda/peso-muerto-con-mancuernas.png,peso-muerto-con-mancuernas,data/exercises_complete.json,102,peso-muerto-con-mancuernas,Peso Muerto Con Mancuernas
+/static/images/espalda/remo-en-barra-t.png,remo-en-barra-t,data/exercises_complete.json,101,remo-en-barra-t,Remo En Barra T
+/static/images/espalda/encogimiento-de-hombros-mancuernas.png,encogimiento-de-hombros-mancuernas,data/exercises_complete.json,100,encogimiento-de-hombros-mancuernas,Encogimiento De Hombros Mancuernas
+/static/images/espalda/pullover-con-mancuerna.png,pullover-con-mancuerna,data/exercises_complete.json,99,pullover-con-mancuerna,Pullover Con Mancuerna
+/static/images/espalda/peso-muerto-con-barra-hexagonal.png,peso-muerto-con-barra-hexagonal,data/exercises_complete.json,98,peso-muerto-con-barra-hexagonal,Peso Muerto Con Barra Hexagonal
+/static/images/espalda/remo-con-barra.png,remo-con-barra,data/exercises_complete.json,97,remo-con-barra,Remo Con Barra
+/static/images/triceps/press-frances-sentado-barra.png,press-frances-sentado-barra,data/exercises_complete.json,96,press-frances-sentado-barra,Press Frances Sentado Barra
+/static/images/triceps/extension-triceps-agarre-inverso-barra.png,extension-triceps-agarre-inverso-barra,data/exercises_complete.json,95,extension-triceps-agarre-inverso-barra,Extension Triceps Agarre Inverso Barra
+/static/images/triceps/extension-triceps-tumbado.png,extension-triceps-tumbado,data/exercises_complete.json,94,extension-triceps-tumbado,Extension Triceps Tumbado
+/static/images/triceps/extension-triceps-cable-una-mano-supinado.png,extension-triceps-cable-una-mano-supinado,data/exercises_complete.json,93,extension-triceps-cable-una-mano-supinado,Extension Triceps Cable Una Mano Supinado
+/static/images/triceps/extension-triceps-mancuernas-sentado.png,extension-triceps-mancuernas-sentado,data/exercises_complete.json,92,extension-triceps-mancuernas-sentado,Extension Triceps Mancuernas Sentado
+/static/images/triceps/extension-triceps-cuerda.png,extension-triceps-cuerda,data/exercises_complete.json,91,extension-triceps-cuerda,Extension Triceps Cuerda
+/static/images/triceps/extension-triceps-cable-una-mano.png,extension-triceps-cable-una-mano,data/exercises_complete.json,90,extension-triceps-cable-una-mano,Extension Triceps Cable Una Mano
+/static/images/triceps/extension-triceps-polea.png,extension-triceps-polea,data/exercises_complete.json,89,extension-triceps-polea,Extension Triceps Polea
+/static/images/triceps/press-banca-cerrado.png,press-banca-cerrado,data/exercises_complete.json,88,press-banca-cerrado,Press Banca Cerrado
+/static/images/triceps/fondos-banco.png,fondos-banco,data/exercises_complete.json,87,fondos-banco,Fondos Banco
+/static/images/triceps/fondos-barras-paralelas.png,fondos-barras-paralelas,data/exercises_complete.json,86,fondos-barras-paralelas,Fondos Barras Paralelas
+/static/images/triceps/extension-triceps-mancuernas-tumbado.png,extension-triceps-mancuernas-tumbado,data/exercises_complete.json,85,extension-triceps-mancuernas-tumbado,Extension Triceps Mancuernas Tumbado
+/static/images/triceps/patadas-traseras.png,patadas-traseras,data/exercises_complete.json,84,patadas-traseras,Patadas Traseras
+/static/images/pectorales/flexiones.png,flexiones,data/exercises_v2_with_images.json,2,flexiones,Flexiones
+/static/images/pectorales/press-declinado-mancuernas.png,press-declinado-mancuernas,data/exercises_complete.json,82,press-declinado-mancuernas,Press Declinado Mancuernas
+/static/images/pectorales/press-declinado-barra.png,press-declinado-barra,data/exercises_complete.json,81,press-declinado-barra,Press Declinado Barra
+/static/images/pectorales/cruce-poleas.png,cruce-poleas,data/exercises_complete.json,80,cruce-poleas,Cruce Poleas
+/static/images/pectorales/peck-deck.png,peck-deck,data/exercises_complete.json,79,peck-deck,Peck Deck
+/static/images/pectorales/aperturas-mancuernas-inclinado.png,aperturas-mancuernas-inclinado,data/exercises_complete.json,78,aperturas-mancuernas-inclinado,Aperturas Mancuernas Inclinado
+/static/images/pectorales/press-banca-inclinado.png,press-banca-inclinado,data/exercises_complete.json,77,press-banca-inclinado,Press Banca Inclinado
+/static/images/pectorales/press-banca-mancuernas.png,press-banca-mancuernas,data/exercises_complete.json,76,press-banca-mancuernas,Press Banca Mancuernas
+/static/images/pectorales/aperturas-mancuernas.png,aperturas-mancuernas,data/exercises_complete.json,75,aperturas-mancuernas,Aperturas Mancuernas
+/static/images/pectorales/press-maquina-sentado.png,press-maquina-sentado,data/exercises_complete.json,74,press-maquina-sentado,Press Maquina Sentado
+/static/images/pectorales/press-banca.png,press-banca,data/exercises_complete.json,73,press-banca,Press Banca
+/static/images/pectorales/press-inclinado-mancuernas.png,press-inclinado-mancuernas,data/exercises_complete.json,72,press-inclinado-mancuernas,Press Inclinado Mancuernas
+/static/images/biceps/curl-de-cable-en-polea-baja-una-mano.png,curl-de-cable-en-polea-baja-una-mano,data/exercises_complete.json,71,curl-de-cable-en-polea-baja-una-mano,Curl De Cable En Polea Baja Una Mano
+/static/images/biceps/curl-con-cuerda-polea.png,curl-con-cuerda-polea,data/exercises_complete.json,70,curl-con-cuerda-polea,Curl Con Cuerda Polea
+/static/images/biceps/curl-de-cable-con-barra-recta-polea-baja.png,curl-de-cable-con-barra-recta-polea-baja,data/exercises_complete.json,69,curl-de-cable-con-barra-recta-polea-baja,Curl De Cable Con Barra Recta Polea Baja
+/static/images/biceps/curl-con-barra-z.png,curl-con-barra-z,data/exercises_complete.json,68,curl-con-barra-z,Curl Con Barra Z
+/static/images/biceps/curl-alterno-mancuernas.png,curl-alterno-mancuernas,data/exercises_complete.json,67,curl-alterno-mancuernas,Curl Alterno Mancuernas
+/static/images/biceps/curl-predicador-con-barra-z.png,curl-predicador-con-barra-z,data/exercises_complete.json,66,curl-predicador-con-barra-z,Curl Predicador Con Barra Z
+/static/images/biceps/curl-con-barra.png,curl-con-barra,data/exercises_complete.json,65,curl-con-barra,Curl Con Barra
+/static/images/biceps/curl-concentrado-mancuernas.png,curl-concentrado-mancuernas,data/exercises_complete.json,64,curl-concentrado-mancuernas,Curl Concentrado Mancuernas
+/static/images/biceps/curl-barra-invertido.png,curl-barra-invertido,data/exercises_complete.json,63,curl-barra-invertido,Curl Barra Invertido
+/static/images/biceps/curl-inclinado-mancuernas.png,curl-inclinado-mancuernas,data/exercises_complete.json,62,curl-inclinado-mancuernas,Curl Inclinado Mancuernas
+/static/images/biceps/curl-muñeca-con-barra-sentado.png,curl-muñeca-con-barra-sentado,data/exercises_complete.json,61,curl-muñeca-con-barra-sentado,Curl Muñeca Con Barra Sentado
+/static/images/biceps/extension-de-muñeca-barra-sentado.png,extension-de-muñeca-barra-sentado,data/exercises_complete.json,60,extension-de-muñeca-barra-sentado,Extension De Muñeca Barra Sentado
+/static/images/biceps/curl-de-cable-polea-alta-de-pie.png,curl-de-cable-polea-alta-de-pie,data/exercises_complete.json,59,curl-de-cable-polea-alta-de-pie,Curl De Cable Polea Alta De Pie
+/static/images/biceps/curl-alterno-martillo-mancuernas.png,curl-alterno-martillo-mancuernas,data/exercises_complete.json,58,curl-alterno-martillo-mancuernas,Curl Alterno Martillo Mancuernas
+/static/images/hombros/elevaciones-frontales-cable-a-una-mano.png,elevaciones-frontales-cable-a-una-mano,data/exercises_complete.json,57,elevaciones-frontales-cable-a-una-mano,Elevaciones Frontales Cable A Una Mano
+/static/images/hombros/elevaciones-posteriores-pajaro.png,elevaciones-posteriores-pajaro,data/exercises_complete.json,56,elevaciones-posteriores-pajaro,Elevaciones Posteriores Pajaro
+/static/images/hombros/press-de-hombro-mancuernas.png,press-de-hombro-mancuernas,data/exercises_complete.json,55,press-de-hombro-mancuernas,Press De Hombro Mancuernas
+/static/images/hombros/press-militar-mancuernas.png,press-militar-mancuernas,data/exercises_complete.json,54,press-militar-mancuernas,Press Militar Mancuernas
+/static/images/hombros/elevaciones-frontales.png,elevaciones-frontales,data/exercises_complete.json,53,elevaciones-frontales,Elevaciones Frontales
+/static/images/hombros/press-militar-tras-nuca.png,press-militar-tras-nuca,data/exercises_complete.json,52,press-militar-tras-nuca,Press Militar Tras Nuca
+/static/images/hombros/elevaciones-frontales-polea-baja-neutro.png,elevaciones-frontales-polea-baja-neutro,data/exercises_complete.json,51,elevaciones-frontales-polea-baja-neutro,Elevaciones Frontales Polea Baja Neutro
+/static/images/hombros/press-militar-con-barra-sentado.png,press-militar-con-barra-sentado,data/exercises_complete.json,50,press-militar-con-barra-sentado,Press Militar Con Barra Sentado
+/static/images/hombros/elevaciones-frontales-barra.png,elevaciones-frontales-barra,data/exercises_complete.json,49,elevaciones-frontales-barra,Elevaciones Frontales Barra
+/static/images/hombros/elevaciones-frontales-agarre-neutro.png,elevaciones-frontales-agarre-neutro,data/exercises_complete.json,48,elevaciones-frontales-agarre-neutro,Elevaciones Frontales Agarre Neutro
+/static/images/hombros/press-militar-de-pie.png,press-militar-de-pie,data/exercises_complete.json,47,press-militar-de-pie,Press Militar De Pie
+/static/images/hombros/remo-alto-barra.png,remo-alto-barra,data/exercises_complete.json,46,remo-alto-barra,Remo Alto Barra
+/static/images/hombros/elevaciones-laterales-cable-bajo.png,elevaciones-laterales-cable-bajo,data/exercises_complete.json,45,elevaciones-laterales-cable-bajo,Elevaciones Laterales Cable Bajo
+/static/images/hombros/cruces-inversos-polea-alta.png,cruces-inversos-polea-alta,data/exercises_complete.json,44,cruces-inversos-polea-alta,Cruces Inversos Polea Alta
+/static/images/hombros/elevaciones-laterales.png,elevaciones-laterales,data/exercises_complete.json,43,elevaciones-laterales,Elevaciones Laterales
+/static/images/hombros/press-militar.png,press-militar,data/exercises_complete.json,42,press-militar,Press Militar
+/static/images/hombros/press-de-hombros-en-maquina-smith.png,press-de-hombros-en-maquina-smith,data/exercises_complete.json,41,press-de-hombros-en-maquina-smith,Press De Hombros En Maquina Smith
+/static/images/piernas/sentadilla-goblet-mancuernra.png,sentadilla-goblet-mancuernra,data/exercises_complete.json,40,sentadilla-goblet-mancuerna,Sentadilla Goblet Mancuerna
+/static/images/piernas/caminata-de-pato.png,caminata-de-pato,data/exercises_complete.json,39,caminata-de-pato,Caminata De Pato
+/static/images/piernas/sentadilla-frontal.png,sentadilla-frontal,data/exercises_complete.json,38,sentadilla-frontal,Sentadilla Frontal
+/static/images/piernas/elevaciones-de-rodilla.png,elevaciones-de-rodilla,data/exercises_complete.json,37,elevaciones-de-rodilla,Elevaciones De Rodilla
+/static/images/piernas/sentadillas-con-balon.png,sentadillas-con-balon,data/exercises_complete.json,36,sentadillas-con-balon,Sentadillas Con Balon
+/static/images/piernas/curl-de-femoral.png,curl-de-femoral,data/exercises_complete.json,35,curl-de-femoral,Curl De Femoral
+/static/images/piernas/peso-muerto-rumano-mancuernas.png,peso-muerto-rumano-mancuernas,data/exercises_complete.json,34,peso-muerto-rumano-mancuernas,Peso Muerto Rumano Mancuernas
+/static/images/piernas/sentadilla-sobre-la-pared.png,sentadilla-sobre-la-pared,data/exercises_complete.json,33,sentadilla-sobre-la-pared,Sentadilla Sobre La Pared
+/static/images/piernas/salto-rodillas-al-pecho.png,salto-rodillas-al-pecho,data/exercises_complete.json,32,salto-rodillas-al-pecho,Salto Rodillas Al Pecho
+/static/images/piernas/zancada.png,zancada,data/exercises_complete.json,31,zancada,Zancada
+/static/images/piernas/sentadilla-hack.png,sentadilla-hack,data/exercises_complete.json,30,sentadilla-hack,Sentadilla Hack
+/static/images/piernas/contragolpe-con-cable.png,contragolpe-con-cable,data/exercises_complete.json,29,contragolpe-con-cable,Contragolpe Con Cable
+/static/images/piernas/sentadilla-con-mini-banda.png,sentadilla-con-mini-banda,data/exercises_complete.json,28,sentadilla-con-mini-banda,Sentadilla Con Mini Banda
+/static/images/piernas/sentadilla-con-salto.png,sentadilla-con-salto,data/exercises_complete.json,27,sentadilla-con-salto,Sentadilla Con Salto
+/static/images/piernas/peso-muerto-rumano-barra.png,peso-muerto-rumano-barra,data/exercises_complete.json,26,peso-muerto-rumano-barra,Peso Muerto Rumano Barra
+/static/images/piernas/sentadillas-peso-corporal.png,sentadillas-peso-corporal,data/exercises_complete.json,25,sentadillas-peso-corporal,Sentadillas Peso Corporal
+/static/images/piernas/puente-con-peso-corporal.png,puente-con-peso-corporal,data/exercises_complete.json,24,puente-con-peso-corporal,Puente Con Peso Corporal
+/static/images/piernas/burpees.png,burpees,data/exercises_complete.json,23,burpees,Burpees
+/static/images/piernas/elevaciones-de-caderas-en-smith.png,elevaciones-de-caderas-en-smith,data/exercises_complete.json,22,elevaciones-de-caderas-en-smith,Elevaciones De Caderas En Smith
+/static/images/piernas/ejercicio-superman-cuadrupedia.png,ejercicio-superman-cuadrupedia,data/exercises_complete.json,21,ejercicio-superman-cuadrupedia,Ejercicio Superman Cuadrupedia
+/static/images/piernas/sentadilla-bulgara-barra.png,sentadilla-bulgara-barra,data/exercises_complete.json,20,sentadilla-bulgara-barra,Sentadilla Bulgara Barra
+/static/images/piernas/extension-a-una-pierna.png,extension-a-una-pierna,data/exercises_complete.json,19,extension-a-una-pierna,Extension A Una Pierna
+/static/images/piernas/sentadilla-bulgara.png,sentadilla-bulgara,data/exercises_complete.json,18,sentadilla-bulgara,Sentadilla Bulgara
+/static/images/piernas/elevaciones-de-caderas-con-barra.png,elevaciones-de-caderas-con-barra,data/exercises_complete.json,17,elevaciones-de-caderas-con-barra,Elevaciones De Caderas Con Barra
+/static/images/piernas/curl-de-piernas-sentado.png,curl-de-piernas-sentado,data/exercises_complete.json,16,curl-de-piernas-sentado,Curl De Piernas Sentado
+/static/images/piernas/sentadilla.png,sentadilla,data/exercises_v2_with_images.json,13,sentadilla,Sentadilla
+/static/images/piernas/extension-de-piernas.png,extension-de-piernas,data/exercises_complete.json,14,extension-de-piernas,Extension De Piernas
+/static/images/piernas/puentes-a-una-pierna.png,puentes-a-una-pierna,data/exercises_complete.json,13,puentes-a-una-pierna,Puentes A Una Pierna
+/static/images/piernas/prensa.png,prensa,data/exercises_complete.json,12,prensa,Prensa
+/static/images/piernas/.gitkeep,.gitkeep,,,,
+/static/images/gemelos/elevacion-de-gemelos-de-pie.png,elevacion-de-gemelos-de-pie,data/exercises_complete.json,11,elevacion-de-gemelos-de-pie,Elevacion De Gemelos De Pie
+/static/images/gemelos/elevacion-de-gemelos-sentado.png,elevacion-de-gemelos-sentado,data/exercises_complete.json,10,elevacion-de-gemelos-sentado,Elevacion De Gemelos Sentado
+/static/images/abs/crunch.png,crunch,data/exercises_complete.json,9,crunch,Crunch
+/static/images/abs/plancha.png,plancha,data/exercises_v2_with_images.json,21,plancha,Plancha
+/static/images/abs/abdominales-cuerda-polea-alta.png,abdominales-cuerda-polea-alta,data/exercises_complete.json,7,abdominales-cuerda-polea-alta,Abdominales Cuerda Polea Alta
+/static/images/abs/abdominales-brazos-estirados.png,abdominales-brazos-estirados,data/exercises_complete.json,6,abdominales-brazos-estirados,Abdominales Brazos Estirados
+/static/images/abs/encogimientos-de-rodillas.png,encogimientos-de-rodillas,data/exercises_complete.json,5,encogimientos-de-rodillas,Encogimientos De Rodillas
+/static/images/abs/plancha-con-flexion.png,plancha-con-flexion,data/exercises_complete.json,4,plancha-con-flexion,Plancha Con Flexion
+/static/images/abs/elevacion-de-piernas.png,elevacion-de-piernas,data/exercises_complete.json,3,elevacion-de-piernas,Elevacion De Piernas
+/static/images/abs/crunch-oblicuo.png,crunch-oblicuo,data/exercises_complete.json,2,crunch-oblicuo,Crunch Oblicuo
+/static/images/abs/abdominales-maquina.png,abdominales-maquina,data/exercises_complete.json,1,abdominales-maquina,Abdominales Maquina

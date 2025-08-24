@@ -29,7 +29,50 @@ Una vez desplegada, la documentación interactiva estará disponible en:
 - **Swagger UI**: `https://tu-app.onrender.com/docs`
 - **ReDoc**: `https://tu-app.onrender.com/redoc`
 
-## 🔧 Configuración para Producción
+## �️ Estado de las imágenes usadas por la API v2
+
+He hecho un barrido rápido de los JSON de ejemplo (`data/examples_v2.json` y `data/exercises_v2_with_images.json`) y de la carpeta de imágenes estáticas (`static/images`). Resumen:
+
+- Imágenes referenciadas en `data/examples_v2.json`:
+  - `/static/images/pushup.jpg` — NO encontrado en el repositorio (archivo ausente)
+  - `/static/images/deadlift.jpg` — NO encontrado en el repositorio (archivo ausente)
+
+- Imágenes referenciadas en `data/exercises_v2_with_images.json` (URL públicas que mapean a `static/images/...`) y su estado local:
+  - `https://gainz-api.onrender.com/static/images/pectorales/press-banca.png` -> `static/images/pectorales/press-banca.png` (ENCONTRADO)
+  - `https://gainz-api.onrender.com/static/images/pectorales/flexiones.png` -> `static/images/pectorales/flexiones.png` (ENCONTRADO)
+  - `https://gainz-api.onrender.com/static/images/espalda/dominadas.png` -> `static/images/espalda/dominadas.png` (ENCONTRADO)
+  - `https://gainz-api.onrender.com/static/images/espalda/peso-muerto.png` -> `static/images/espalda/peso-muerto.png` (ENCONTRADO)
+  - `https://gainz-api.onrender.com/static/images/piernas/sentadilla.png` -> `static/images/piernas/sentadilla.png` (ENCONTRADO)
+  - `https://gainz-api.onrender.com/static/images/abs/plancha.png` -> `static/images/abs/plancha.png` (ENCONTRADO)
+
+- Estado general de accesibilidad:
+  - Las imágenes que usan rutas completas hacia `https://gainz-api.onrender.com/static/images/...` están presentes localmente en `static/images/` y, si la API está desplegada y sirve archivos estáticos, serán accesibles en `https://<TU_BASE_URL>/static/images/...`.
+  - Las entradas en `examples_v2.json` que apuntan a `/static/images/pushup.jpg` y `/static/images/deadlift.jpg` no tienen los ficheros locales correspondientes; al intentar resolverlas en el servidor devolverían 404 hasta que se añadan o se actualice la ruta.
+
+Recomendaciones rápidas:
+  - Añadir los archivos faltantes (`static/images/pushup.jpg` y `static/images/deadlift.jpg`) o actualizar `data/examples_v2.json` para apuntar a imágenes existentes.
+  - Verificar en el despliegue que la ruta base para archivos estáticos coincide con la usada en los JSON (p. ej. `https://gainz-api.onrender.com/static/images/`).
+
+
+### Herramienta para verificar imágenes v2
+
+He incluido un script auxiliar `scripts/list_v2_images.py` que extrae todas las rutas de imágenes desde los JSON v2 y comprueba si los ficheros existen localmente en `static/images/`.
+
+Uso:
+
+```bash
+python3 scripts/list_v2_images.py
+# Para revisar también la disponibilidad HTTP de URLs públicas:
+python3 scripts/list_v2_images.py --check-remote
+```
+
+Si encuentras archivos marcados como MISSING:
+
+- Sube el archivo al directorio apropiado dentro de `static/images/` (p. ej. `static/images/pectorales/`) con el nombre correcto.
+- O edita el JSON en `data/` para que la propiedad `images[].url` apunte a una imagen existente.
+
+
+## �🔧 Configuración para Producción
 
 ### Variables de Entorno Requeridas
 

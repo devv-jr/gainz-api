@@ -220,6 +220,40 @@ def get_exercise_v2(exercise_id: int):
     raise HTTPException(status_code=404, detail="Exercise not found in v2")
 
 
+@router.get('/images')
+def get_images_map():
+    """Devuelve la lista mapeada de imágenes a ejercicios para consumo de la app.
+
+    Lee `data/images_exercise_map.json` si existe; si no, intenta generar un
+    mapeo simple a partir de `data/images_list.json`.
+    """
+    try:
+        base = Path(__file__).resolve().parent.parent.parent / 'data'
+        map_file = base / 'images_exercise_map.json'
+        if map_file.exists():
+            with open(map_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            # return a compact mapping
+            out = []
+            for item in data:
+                out.append({
+                    'image': item.get('image'),
+                    'filename': item.get('filename'),
+                    'matches': item.get('matches', [])
+                })
+            return out
+        # fallback: return images_list.json
+        list_file = base / 'images_list.json'
+        if list_file.exists():
+            with open(list_file, 'r', encoding='utf-8') as f:
+                imgs = json.load(f)
+            return [{'image': i, 'filename': Path(i).stem} for i in imgs]
+        return []
+    except Exception as e:
+        logger.error(f"Error reading images map: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
 @router.post("/", response_model=ExerciseV2)
 def create_exercise_v2(ex: ExerciseV2, auth=Depends(require_auth)):
     # Insert into DB
