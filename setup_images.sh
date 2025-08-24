@@ -1,0 +1,87 @@
+#!/bin/bash
+
+# Script para agregar imágenes de ejemplo
+# Ejecuta esto antes del deploy
+
+echo "📸 Agregando imágenes de ejemplo..."
+
+# Crear datos de ejercicio v2 con imágenes
+cat > data/example_v2_with_images.json << 'EOF'
+[
+  {
+    "id": 1001,
+    "slug": "push-up-complete",
+    "name": "Push Up Completo",
+    "summary": "Ejercicio fundamental para pecho, tríceps y hombros",
+    "description": "El push-up es uno de los ejercicios más versátiles y efectivos para el desarrollo de la fuerza del tren superior. Trabaja principalmente el pecho, tríceps y hombros.",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders", "core"],
+    "equipment": ["bodyweight"],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Colócate en posición de plancha con las manos a la anchura de los hombros",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Descenso controlado",
+        "instruction": "Baja el pecho hacia el suelo manteniendo el cuerpo recto",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Empuje",
+        "instruction": "Empuja hacia arriba hasta la posición inicial",
+        "duration_sec": 1
+      }
+    ],
+    "tips": [
+      "Mantén el core contraído durante todo el movimiento",
+      "No dejes que las caderas se hundan",
+      "Controla tanto la bajada como la subida"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pushup-start.jpg",
+        "type": "step",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pushup-down.jpg", 
+        "type": "step",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "video_url": null,
+    "tags": ["push", "upper-body", "bodyweight", "beginner"],
+    "variations": [
+      {
+        "name": "Push-up en rodillas",
+        "difficulty": "beginner",
+        "description": "Versión modificada para principiantes"
+      },
+      {
+        "name": "Push-up inclinado",
+        "difficulty": "advanced", 
+        "description": "Pies elevados para mayor dificultad"
+      }
+    ],
+    "estimated": {
+      "sets": 3,
+      "reps_min": 8,
+      "reps_max": 15,
+      "rest_sec": 60
+    },
+    "created_at": "2025-08-23T10:00:00Z",
+    "updated_at": "2025-08-23T10:00:00Z"
+  }
+]
+EOF
+
+echo "✅ Archivo de ejemplo creado: data/example_v2_with_images.json"
+echo "📤 Ahora puedes hacer commit y push para incluir las imágenes en el repositorio"
