@@ -15,22 +15,35 @@ def setup_logging():
 
 # Configuración de la aplicación
 class Settings:
-    SECRET_KEY: str = os.getenv("SECRET_KEY", "dev-secret-key-change-me")
+    SECRET_KEY: str = os.getenv("SECRET_KEY", "dev-secret-key")
     ADMIN_USER: str = os.getenv("ADMIN_USER", "admin")
     ADMIN_PASS: str = os.getenv("ADMIN_PASS", "password")
-    ORIGINS: str = os.getenv("ORIGINS", "exp://127.0.0.1:19000")
+    ORIGINS = os.getenv("ORIGINS", "exp://127.0.0.1:19000").split(",")
+
+    # Configuración de base de datos mejorada
+    DATABASE_URL: str = os.getenv("DATABASE_URL")
     
-    # Database configuration - PostgreSQL in production, SQLite in development
-    DATABASE_URL: str = os.getenv("DATABASE_URL", str(Path(__file__).resolve().parent.parent / "data" / "exercises.db"))
+    # Si no hay DATABASE_URL (desarrollo local), usar SQLite
+    if not DATABASE_URL:
+        DATABASE_URL = f"sqlite:///{Path(__file__).resolve().parent.parent / 'data' / 'exercises.db'}"
     
     # Environment detection
     ENVIRONMENT: str = os.getenv("ENVIRONMENT", "development")
     
-    MAX_FILE_SIZE: int = 5 * 1024 * 1024  # 5MB
-    ALLOWED_FILE_TYPES = ["image/jpeg", "image/png", "image/webp"]
+    # Detectar el tipo de base de datos
+    @property
+    def is_postgresql(self) -> bool:
+        return self.DATABASE_URL.startswith(('postgresql://', 'postgres://'))
     
     @property
+    def is_sqlite(self) -> bool:
+        return self.DATABASE_URL.startswith('sqlite://')
+
+    @property
     def is_production(self) -> bool:
-        return self.ENVIRONMENT == "production" or self.DATABASE_URL.startswith("postgresql://")
+        return self.ENVIRONMENT == "production" or self.DATABASE_URL.startswith(("postgresql://", "postgres://"))
+    
+    MAX_FILE_SIZE: int = 5 * 1024 * 1024  # 5MB
+    ALLOWED_FILE_TYPES = ["image/jpeg", "image/png", "image/webp"]
 
 settings = Settings()
