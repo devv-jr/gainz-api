@@ -1,0 +1,5658 @@
+[
+  {
+    "id": 1,
+    "slug": "abdominales-maquina",
+    "name": "Abdominales Maquina",
+    "summary": "Ejercicio de abs enfocado en abdominales maquina",
+    "description": "Abdominales Maquina es un excelente ejercicio para desarrollar y fortalecer abs.",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para abdominales maquina",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de abdominales maquina de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/abs/abdominales-maquina.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "crunch-oblicuo",
+    "name": "Crunch Oblicuo",
+    "summary": "Ejercicio de abs enfocado en crunch oblicuo",
+    "description": "Crunch Oblicuo es un excelente ejercicio para desarrollar y fortalecer abs.",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para crunch oblicuo",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de crunch oblicuo de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/abs/crunch-oblicuo.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "elevacion-de-piernas",
+    "name": "Elevacion De Piernas",
+    "summary": "Ejercicio de abs enfocado en elevacion de piernas",
+    "description": "Elevacion De Piernas es un excelente ejercicio para desarrollar y fortalecer abs.",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevacion de piernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevacion de piernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/abs/elevacion-de-piernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "plancha-con-flexion",
+    "name": "Plancha Con Flexion",
+    "summary": "Ejercicio de abs enfocado en plancha con flexion",
+    "description": "Plancha Con Flexion es un excelente ejercicio para desarrollar y fortalecer abs.",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para plancha con flexion",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de plancha con flexion de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/abs/plancha-con-flexion.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "encogimientos-de-rodillas",
+    "name": "Encogimientos De Rodillas",
+    "summary": "Ejercicio de abs enfocado en encogimientos de rodillas",
+    "description": "Encogimientos De Rodillas es un excelente ejercicio para desarrollar y fortalecer abs.",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para encogimientos de rodillas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de encogimientos de rodillas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/abs/encogimientos-de-rodillas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "abdominales-brazos-estirados",
+    "name": "Abdominales Brazos Estirados",
+    "summary": "Ejercicio de abs enfocado en abdominales brazos estirados",
+    "description": "Abdominales Brazos Estirados es un excelente ejercicio para desarrollar y fortalecer abs.",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para abdominales brazos estirados",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de abdominales brazos estirados de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/abs/abdominales-brazos-estirados.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "abdominales-cuerda-polea-alta",
+    "name": "Abdominales Cuerda Polea Alta",
+    "summary": "Ejercicio de abs enfocado en abdominales cuerda polea alta",
+    "description": "Abdominales Cuerda Polea Alta es un excelente ejercicio para desarrollar y fortalecer abs.",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para abdominales cuerda polea alta",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de abdominales cuerda polea alta de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/abs/abdominales-cuerda-polea-alta.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "plancha",
+    "name": "Plancha",
+    "summary": "Ejercicio de abs enfocado en plancha",
+    "description": "Plancha es un excelente ejercicio para desarrollar y fortalecer abs.",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para plancha",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de plancha de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/abs/plancha.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "crunch",
+    "name": "Crunch",
+    "summary": "Ejercicio de abs enfocado en crunch",
+    "description": "Crunch es un excelente ejercicio para desarrollar y fortalecer abs.",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para crunch",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de crunch de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/abs/crunch.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "elevacion-de-gemelos-sentado",
+    "name": "Elevacion De Gemelos Sentado",
+    "summary": "Ejercicio de gemelos enfocado en elevacion de gemelos sentado",
+    "description": "Elevacion De Gemelos Sentado es un excelente ejercicio para desarrollar y fortalecer gemelos.",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevacion de gemelos sentado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevacion de gemelos sentado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/gemelos/elevacion-de-gemelos-sentado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "elevacion-de-gemelos-de-pie",
+    "name": "Elevacion De Gemelos De Pie",
+    "summary": "Ejercicio de gemelos enfocado en elevacion de gemelos de pie",
+    "description": "Elevacion De Gemelos De Pie es un excelente ejercicio para desarrollar y fortalecer gemelos.",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevacion de gemelos de pie",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevacion de gemelos de pie de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/gemelos/elevacion-de-gemelos-de-pie.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "prensa",
+    "name": "Prensa",
+    "summary": "Ejercicio de piernas enfocado en prensa",
+    "description": "Prensa es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para prensa",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de prensa de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/prensa.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "puentes-a-una-pierna",
+    "name": "Puentes A Una Pierna",
+    "summary": "Ejercicio de piernas enfocado en puentes a una pierna",
+    "description": "Puentes A Una Pierna es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para puentes a una pierna",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de puentes a una pierna de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/puentes-a-una-pierna.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "extension-de-piernas",
+    "name": "Extension De Piernas",
+    "summary": "Ejercicio de piernas enfocado en extension de piernas",
+    "description": "Extension De Piernas es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension de piernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension de piernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/extension-de-piernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "sentadilla",
+    "name": "Sentadilla",
+    "summary": "Ejercicio de piernas enfocado en sentadilla",
+    "description": "Sentadilla es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadilla",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadilla de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadilla.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "curl-de-piernas-sentado",
+    "name": "Curl De Piernas Sentado",
+    "summary": "Ejercicio de piernas enfocado en curl de piernas sentado",
+    "description": "Curl De Piernas Sentado es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl de piernas sentado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl de piernas sentado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/curl-de-piernas-sentado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "elevaciones-de-caderas-con-barra",
+    "name": "Elevaciones De Caderas Con Barra",
+    "summary": "Ejercicio de piernas enfocado en elevaciones de caderas con barra",
+    "description": "Elevaciones De Caderas Con Barra es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones de caderas con barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones de caderas con barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/elevaciones-de-caderas-con-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "sentadilla-bulgara",
+    "name": "Sentadilla Bulgara",
+    "summary": "Ejercicio de piernas enfocado en sentadilla bulgara",
+    "description": "Sentadilla Bulgara es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadilla bulgara",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadilla bulgara de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadilla-bulgara.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "extension-a-una-pierna",
+    "name": "Extension A Una Pierna",
+    "summary": "Ejercicio de piernas enfocado en extension a una pierna",
+    "description": "Extension A Una Pierna es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension a una pierna",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension a una pierna de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/extension-a-una-pierna.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "sentadilla-bulgara-barra",
+    "name": "Sentadilla Bulgara Barra",
+    "summary": "Ejercicio de piernas enfocado en sentadilla bulgara barra",
+    "description": "Sentadilla Bulgara Barra es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadilla bulgara barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadilla bulgara barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadilla-bulgara-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "ejercicio-superman-cuadrupedia",
+    "name": "Ejercicio Superman Cuadrupedia",
+    "summary": "Ejercicio de piernas enfocado en ejercicio superman cuadrupedia",
+    "description": "Ejercicio Superman Cuadrupedia es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para ejercicio superman cuadrupedia",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de ejercicio superman cuadrupedia de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/ejercicio-superman-cuadrupedia.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "elevaciones-de-caderas-en-smith",
+    "name": "Elevaciones De Caderas En Smith",
+    "summary": "Ejercicio de piernas enfocado en elevaciones de caderas en smith",
+    "description": "Elevaciones De Caderas En Smith es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "smith_machine"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones de caderas en smith",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones de caderas en smith de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/elevaciones-de-caderas-en-smith.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "burpees",
+    "name": "Burpees",
+    "summary": "Ejercicio de piernas enfocado en burpees",
+    "description": "Burpees es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para burpees",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de burpees de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/burpees.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "puente-con-peso-corporal",
+    "name": "Puente Con Peso Corporal",
+    "summary": "Ejercicio de piernas enfocado en puente con peso corporal",
+    "description": "Puente Con Peso Corporal es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para puente con peso corporal",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de puente con peso corporal de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/puente-con-peso-corporal.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "sentadillas-peso-corporal",
+    "name": "Sentadillas Peso Corporal",
+    "summary": "Ejercicio de piernas enfocado en sentadillas peso corporal",
+    "description": "Sentadillas Peso Corporal es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadillas peso corporal",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadillas peso corporal de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadillas-peso-corporal.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "peso-muerto-rumano-barra",
+    "name": "Peso Muerto Rumano Barra",
+    "summary": "Ejercicio de piernas enfocado en peso muerto rumano barra",
+    "description": "Peso Muerto Rumano Barra es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes",
+      "back"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para peso muerto rumano barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de peso muerto rumano barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/peso-muerto-rumano-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "sentadilla-con-salto",
+    "name": "Sentadilla Con Salto",
+    "summary": "Ejercicio de piernas enfocado en sentadilla con salto",
+    "description": "Sentadilla Con Salto es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadilla con salto",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadilla con salto de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadilla-con-salto.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "sentadilla-con-mini-banda",
+    "name": "Sentadilla Con Mini Banda",
+    "summary": "Ejercicio de piernas enfocado en sentadilla con mini banda",
+    "description": "Sentadilla Con Mini Banda es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "resistance_band"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadilla con mini banda",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadilla con mini banda de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadilla-con-mini-banda.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "contragolpe-con-cable",
+    "name": "Contragolpe Con Cable",
+    "summary": "Ejercicio de piernas enfocado en contragolpe con cable",
+    "description": "Contragolpe Con Cable es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para contragolpe con cable",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de contragolpe con cable de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/contragolpe-con-cable.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "sentadilla-hack",
+    "name": "Sentadilla Hack",
+    "summary": "Ejercicio de piernas enfocado en sentadilla hack",
+    "description": "Sentadilla Hack es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadilla hack",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadilla hack de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadilla-hack.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "zancada",
+    "name": "Zancada",
+    "summary": "Ejercicio de piernas enfocado en zancada",
+    "description": "Zancada es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para zancada",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de zancada de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/zancada.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "salto-rodillas-al-pecho",
+    "name": "Salto Rodillas Al Pecho",
+    "summary": "Ejercicio de piernas enfocado en salto rodillas al pecho",
+    "description": "Salto Rodillas Al Pecho es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para salto rodillas al pecho",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de salto rodillas al pecho de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/salto-rodillas-al-pecho.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "sentadilla-sobre-la-pared",
+    "name": "Sentadilla Sobre La Pared",
+    "summary": "Ejercicio de piernas enfocado en sentadilla sobre la pared",
+    "description": "Sentadilla Sobre La Pared es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadilla sobre la pared",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadilla sobre la pared de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadilla-sobre-la-pared.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "peso-muerto-rumano-mancuernas",
+    "name": "Peso Muerto Rumano Mancuernas",
+    "summary": "Ejercicio de piernas enfocado en peso muerto rumano mancuernas",
+    "description": "Peso Muerto Rumano Mancuernas es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes",
+      "back"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para peso muerto rumano mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de peso muerto rumano mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/peso-muerto-rumano-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "curl-de-femoral",
+    "name": "Curl De Femoral",
+    "summary": "Ejercicio de piernas enfocado en curl de femoral",
+    "description": "Curl De Femoral es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes",
+      "back"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl de femoral",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl de femoral de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/curl-de-femoral.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "sentadillas-con-balon",
+    "name": "Sentadillas Con Balon",
+    "summary": "Ejercicio de piernas enfocado en sentadillas con balon",
+    "description": "Sentadillas Con Balon es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "exercise_ball"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadillas con balon",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadillas con balon de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadillas-con-balon.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "elevaciones-de-rodilla",
+    "name": "Elevaciones De Rodilla",
+    "summary": "Ejercicio de piernas enfocado en elevaciones de rodilla",
+    "description": "Elevaciones De Rodilla es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones de rodilla",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones de rodilla de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/elevaciones-de-rodilla.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "sentadilla-frontal",
+    "name": "Sentadilla Frontal",
+    "summary": "Ejercicio de piernas enfocado en sentadilla frontal",
+    "description": "Sentadilla Frontal es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadilla frontal",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadilla frontal de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadilla-frontal.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "caminata-de-pato",
+    "name": "Caminata De Pato",
+    "summary": "Ejercicio de piernas enfocado en caminata de pato",
+    "description": "Caminata De Pato es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para caminata de pato",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de caminata de pato de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/caminata-de-pato.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "sentadilla-goblet-mancuerna",
+    "name": "Sentadilla Goblet Mancuerna",
+    "summary": "Ejercicio de piernas enfocado en sentadilla goblet mancuerna",
+    "description": "Sentadilla Goblet Mancuerna es un excelente ejercicio para desarrollar y fortalecer piernas.",
+    "primary_muscle": "legs",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para sentadilla goblet mancuerna",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de sentadilla goblet mancuerna de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadilla-goblet-mancuerna.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "press-de-hombros-en-maquina-smith",
+    "name": "Press De Hombros En Maquina Smith",
+    "summary": "Ejercicio de hombros enfocado en press de hombros en maquina smith",
+    "description": "Press De Hombros En Maquina Smith es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "machine",
+      "smith_machine"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press de hombros en maquina smith",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press de hombros en maquina smith de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/press-de-hombros-en-maquina-smith.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "press-militar",
+    "name": "Press Militar",
+    "summary": "Ejercicio de hombros enfocado en press militar",
+    "description": "Press Militar es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press militar",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press militar de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/press-militar.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "elevaciones-laterales",
+    "name": "Elevaciones Laterales",
+    "summary": "Ejercicio de hombros enfocado en elevaciones laterales",
+    "description": "Elevaciones Laterales es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones laterales",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones laterales de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/elevaciones-laterales.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "cruces-inversos-polea-alta",
+    "name": "Cruces Inversos Polea Alta",
+    "summary": "Ejercicio de hombros enfocado en cruces inversos polea alta",
+    "description": "Cruces Inversos Polea Alta es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para cruces inversos polea alta",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de cruces inversos polea alta de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/cruces-inversos-polea-alta.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "elevaciones-laterales-cable-bajo",
+    "name": "Elevaciones Laterales Cable Bajo",
+    "summary": "Ejercicio de hombros enfocado en elevaciones laterales cable bajo",
+    "description": "Elevaciones Laterales Cable Bajo es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones laterales cable bajo",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones laterales cable bajo de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/elevaciones-laterales-cable-bajo.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "remo-alto-barra",
+    "name": "Remo Alto Barra",
+    "summary": "Ejercicio de hombros enfocado en remo alto barra",
+    "description": "Remo Alto Barra es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para remo alto barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de remo alto barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/remo-alto-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "slug": "press-militar-de-pie",
+    "name": "Press Militar De Pie",
+    "summary": "Ejercicio de hombros enfocado en press militar de pie",
+    "description": "Press Militar De Pie es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press militar de pie",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press militar de pie de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/press-militar-de-pie.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "elevaciones-frontales-agarre-neutro",
+    "name": "Elevaciones Frontales Agarre Neutro",
+    "summary": "Ejercicio de hombros enfocado en elevaciones frontales agarre neutro",
+    "description": "Elevaciones Frontales Agarre Neutro es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones frontales agarre neutro",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones frontales agarre neutro de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/elevaciones-frontales-agarre-neutro.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "elevaciones-frontales-barra",
+    "name": "Elevaciones Frontales Barra",
+    "summary": "Ejercicio de hombros enfocado en elevaciones frontales barra",
+    "description": "Elevaciones Frontales Barra es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones frontales barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones frontales barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/elevaciones-frontales-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "slug": "press-militar-con-barra-sentado",
+    "name": "Press Militar Con Barra Sentado",
+    "summary": "Ejercicio de hombros enfocado en press militar con barra sentado",
+    "description": "Press Militar Con Barra Sentado es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press militar con barra sentado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press militar con barra sentado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/press-militar-con-barra-sentado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "slug": "elevaciones-frontales-polea-baja-neutro",
+    "name": "Elevaciones Frontales Polea Baja Neutro",
+    "summary": "Ejercicio de hombros enfocado en elevaciones frontales polea baja neutro",
+    "description": "Elevaciones Frontales Polea Baja Neutro es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones frontales polea baja neutro",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones frontales polea baja neutro de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/elevaciones-frontales-polea-baja-neutro.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "press-militar-tras-nuca",
+    "name": "Press Militar Tras Nuca",
+    "summary": "Ejercicio de hombros enfocado en press militar tras nuca",
+    "description": "Press Militar Tras Nuca es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press militar tras nuca",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press militar tras nuca de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/press-militar-tras-nuca.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "elevaciones-frontales",
+    "name": "Elevaciones Frontales",
+    "summary": "Ejercicio de hombros enfocado en elevaciones frontales",
+    "description": "Elevaciones Frontales es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones frontales",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones frontales de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/elevaciones-frontales.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "slug": "press-militar-mancuernas",
+    "name": "Press Militar Mancuernas",
+    "summary": "Ejercicio de hombros enfocado en press militar mancuernas",
+    "description": "Press Militar Mancuernas es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press militar mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press militar mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/press-militar-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "slug": "press-de-hombro-mancuernas",
+    "name": "Press De Hombro Mancuernas",
+    "summary": "Ejercicio de hombros enfocado en press de hombro mancuernas",
+    "description": "Press De Hombro Mancuernas es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press de hombro mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press de hombro mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/press-de-hombro-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "slug": "elevaciones-posteriores-pajaro",
+    "name": "Elevaciones Posteriores Pajaro",
+    "summary": "Ejercicio de hombros enfocado en elevaciones posteriores pajaro",
+    "description": "Elevaciones Posteriores Pajaro es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones posteriores pajaro",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones posteriores pajaro de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/elevaciones-posteriores-pajaro.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "slug": "elevaciones-frontales-cable-a-una-mano",
+    "name": "Elevaciones Frontales Cable A Una Mano",
+    "summary": "Ejercicio de hombros enfocado en elevaciones frontales cable a una mano",
+    "description": "Elevaciones Frontales Cable A Una Mano es un excelente ejercicio para desarrollar y fortalecer hombros.",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para elevaciones frontales cable a una mano",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de elevaciones frontales cable a una mano de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/hombros/elevaciones-frontales-cable-a-una-mano.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "slug": "curl-alterno-martillo-mancuernas",
+    "name": "Curl Alterno Martillo Mancuernas",
+    "summary": "Ejercicio de biceps enfocado en curl alterno martillo mancuernas",
+    "description": "Curl Alterno Martillo Mancuernas es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl alterno martillo mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl alterno martillo mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-alterno-martillo-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "slug": "curl-de-cable-polea-alta-de-pie",
+    "name": "Curl De Cable Polea Alta De Pie",
+    "summary": "Ejercicio de biceps enfocado en curl de cable polea alta de pie",
+    "description": "Curl De Cable Polea Alta De Pie es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl de cable polea alta de pie",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl de cable polea alta de pie de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-de-cable-polea-alta-de-pie.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "slug": "extension-de-muñeca-barra-sentado",
+    "name": "Extension De Muñeca Barra Sentado",
+    "summary": "Ejercicio de biceps enfocado en extension de muñeca barra sentado",
+    "description": "Extension De Muñeca Barra Sentado es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension de muñeca barra sentado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension de muñeca barra sentado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/extension-de-muñeca-barra-sentado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "slug": "curl-muñeca-con-barra-sentado",
+    "name": "Curl Muñeca Con Barra Sentado",
+    "summary": "Ejercicio de biceps enfocado en curl muñeca con barra sentado",
+    "description": "Curl Muñeca Con Barra Sentado es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl muñeca con barra sentado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl muñeca con barra sentado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-muñeca-con-barra-sentado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "slug": "curl-inclinado-mancuernas",
+    "name": "Curl Inclinado Mancuernas",
+    "summary": "Ejercicio de biceps enfocado en curl inclinado mancuernas",
+    "description": "Curl Inclinado Mancuernas es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl inclinado mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl inclinado mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-inclinado-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "slug": "curl-barra-invertido",
+    "name": "Curl Barra Invertido",
+    "summary": "Ejercicio de biceps enfocado en curl barra invertido",
+    "description": "Curl Barra Invertido es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl barra invertido",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl barra invertido de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-barra-invertido.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "slug": "curl-concentrado-mancuernas",
+    "name": "Curl Concentrado Mancuernas",
+    "summary": "Ejercicio de biceps enfocado en curl concentrado mancuernas",
+    "description": "Curl Concentrado Mancuernas es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl concentrado mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl concentrado mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-concentrado-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "slug": "curl-con-barra",
+    "name": "Curl Con Barra",
+    "summary": "Ejercicio de biceps enfocado en curl con barra",
+    "description": "Curl Con Barra es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl con barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl con barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-con-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "slug": "curl-predicador-con-barra-z",
+    "name": "Curl Predicador Con Barra Z",
+    "summary": "Ejercicio de biceps enfocado en curl predicador con barra z",
+    "description": "Curl Predicador Con Barra Z es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl predicador con barra z",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl predicador con barra z de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-predicador-con-barra-z.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "slug": "curl-alterno-mancuernas",
+    "name": "Curl Alterno Mancuernas",
+    "summary": "Ejercicio de biceps enfocado en curl alterno mancuernas",
+    "description": "Curl Alterno Mancuernas es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl alterno mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl alterno mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-alterno-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "slug": "curl-con-barra-z",
+    "name": "Curl Con Barra Z",
+    "summary": "Ejercicio de biceps enfocado en curl con barra z",
+    "description": "Curl Con Barra Z es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl con barra z",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl con barra z de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-con-barra-z.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "slug": "curl-de-cable-con-barra-recta-polea-baja",
+    "name": "Curl De Cable Con Barra Recta Polea Baja",
+    "summary": "Ejercicio de biceps enfocado en curl de cable con barra recta polea baja",
+    "description": "Curl De Cable Con Barra Recta Polea Baja es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell",
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl de cable con barra recta polea baja",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl de cable con barra recta polea baja de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-de-cable-con-barra-recta-polea-baja.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "slug": "curl-con-cuerda-polea",
+    "name": "Curl Con Cuerda Polea",
+    "summary": "Ejercicio de biceps enfocado en curl con cuerda polea",
+    "description": "Curl Con Cuerda Polea es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl con cuerda polea",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl con cuerda polea de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-con-cuerda-polea.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "slug": "curl-de-cable-en-polea-baja-una-mano",
+    "name": "Curl De Cable En Polea Baja Una Mano",
+    "summary": "Ejercicio de biceps enfocado en curl de cable en polea baja una mano",
+    "description": "Curl De Cable En Polea Baja Una Mano es un excelente ejercicio para desarrollar y fortalecer biceps.",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para curl de cable en polea baja una mano",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de curl de cable en polea baja una mano de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/biceps/curl-de-cable-en-polea-baja-una-mano.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "slug": "press-inclinado-mancuernas",
+    "name": "Press Inclinado Mancuernas",
+    "summary": "Ejercicio de pectorales enfocado en press inclinado mancuernas",
+    "description": "Press Inclinado Mancuernas es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press inclinado mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press inclinado mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/press-inclinado-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "slug": "press-banca",
+    "name": "Press Banca",
+    "summary": "Ejercicio de pectorales enfocado en press banca",
+    "description": "Press Banca es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press banca",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press banca de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/press-banca.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "slug": "press-maquina-sentado",
+    "name": "Press Maquina Sentado",
+    "summary": "Ejercicio de pectorales enfocado en press maquina sentado",
+    "description": "Press Maquina Sentado es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press maquina sentado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press maquina sentado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/press-maquina-sentado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "slug": "aperturas-mancuernas",
+    "name": "Aperturas Mancuernas",
+    "summary": "Ejercicio de pectorales enfocado en aperturas mancuernas",
+    "description": "Aperturas Mancuernas es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para aperturas mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de aperturas mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/aperturas-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "slug": "press-banca-mancuernas",
+    "name": "Press Banca Mancuernas",
+    "summary": "Ejercicio de pectorales enfocado en press banca mancuernas",
+    "description": "Press Banca Mancuernas es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press banca mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press banca mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/press-banca-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "slug": "press-banca-inclinado",
+    "name": "Press Banca Inclinado",
+    "summary": "Ejercicio de pectorales enfocado en press banca inclinado",
+    "description": "Press Banca Inclinado es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press banca inclinado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press banca inclinado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/press-banca-inclinado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "slug": "aperturas-mancuernas-inclinado",
+    "name": "Aperturas Mancuernas Inclinado",
+    "summary": "Ejercicio de pectorales enfocado en aperturas mancuernas inclinado",
+    "description": "Aperturas Mancuernas Inclinado es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para aperturas mancuernas inclinado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de aperturas mancuernas inclinado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/aperturas-mancuernas-inclinado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "slug": "peck-deck",
+    "name": "Peck Deck",
+    "summary": "Ejercicio de pectorales enfocado en peck deck",
+    "description": "Peck Deck es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para peck deck",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de peck deck de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/peck-deck.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "slug": "cruce-poleas",
+    "name": "Cruce Poleas",
+    "summary": "Ejercicio de pectorales enfocado en cruce poleas",
+    "description": "Cruce Poleas es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para cruce poleas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de cruce poleas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/cruce-poleas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "slug": "press-declinado-barra",
+    "name": "Press Declinado Barra",
+    "summary": "Ejercicio de pectorales enfocado en press declinado barra",
+    "description": "Press Declinado Barra es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press declinado barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press declinado barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/press-declinado-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "slug": "press-declinado-mancuernas",
+    "name": "Press Declinado Mancuernas",
+    "summary": "Ejercicio de pectorales enfocado en press declinado mancuernas",
+    "description": "Press Declinado Mancuernas es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press declinado mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press declinado mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/press-declinado-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "slug": "flexiones",
+    "name": "Flexiones",
+    "summary": "Ejercicio de pectorales enfocado en flexiones",
+    "description": "Flexiones es un excelente ejercicio para desarrollar y fortalecer pectorales.",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para flexiones",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de flexiones de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/flexiones.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "slug": "patadas-traseras",
+    "name": "Patadas Traseras",
+    "summary": "Ejercicio de triceps enfocado en patadas traseras",
+    "description": "Patadas Traseras es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para patadas traseras",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de patadas traseras de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/patadas-traseras.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "slug": "extension-triceps-mancuernas-tumbado",
+    "name": "Extension Triceps Mancuernas Tumbado",
+    "summary": "Ejercicio de triceps enfocado en extension triceps mancuernas tumbado",
+    "description": "Extension Triceps Mancuernas Tumbado es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension triceps mancuernas tumbado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension triceps mancuernas tumbado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/extension-triceps-mancuernas-tumbado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "slug": "fondos-barras-paralelas",
+    "name": "Fondos Barras Paralelas",
+    "summary": "Ejercicio de triceps enfocado en fondos barras paralelas",
+    "description": "Fondos Barras Paralelas es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para fondos barras paralelas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de fondos barras paralelas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/fondos-barras-paralelas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "slug": "fondos-banco",
+    "name": "Fondos Banco",
+    "summary": "Ejercicio de triceps enfocado en fondos banco",
+    "description": "Fondos Banco es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "bench"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para fondos banco",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de fondos banco de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/fondos-banco.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "slug": "press-banca-cerrado",
+    "name": "Press Banca Cerrado",
+    "summary": "Ejercicio de triceps enfocado en press banca cerrado",
+    "description": "Press Banca Cerrado es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press banca cerrado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press banca cerrado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/press-banca-cerrado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "slug": "extension-triceps-polea",
+    "name": "Extension Triceps Polea",
+    "summary": "Ejercicio de triceps enfocado en extension triceps polea",
+    "description": "Extension Triceps Polea es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension triceps polea",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension triceps polea de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/extension-triceps-polea.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "slug": "extension-triceps-cable-una-mano",
+    "name": "Extension Triceps Cable Una Mano",
+    "summary": "Ejercicio de triceps enfocado en extension triceps cable una mano",
+    "description": "Extension Triceps Cable Una Mano es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension triceps cable una mano",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension triceps cable una mano de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/extension-triceps-cable-una-mano.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "slug": "extension-triceps-cuerda",
+    "name": "Extension Triceps Cuerda",
+    "summary": "Ejercicio de triceps enfocado en extension triceps cuerda",
+    "description": "Extension Triceps Cuerda es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension triceps cuerda",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension triceps cuerda de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/extension-triceps-cuerda.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "slug": "extension-triceps-mancuernas-sentado",
+    "name": "Extension Triceps Mancuernas Sentado",
+    "summary": "Ejercicio de triceps enfocado en extension triceps mancuernas sentado",
+    "description": "Extension Triceps Mancuernas Sentado es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension triceps mancuernas sentado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension triceps mancuernas sentado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/extension-triceps-mancuernas-sentado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "slug": "extension-triceps-cable-una-mano-supinado",
+    "name": "Extension Triceps Cable Una Mano Supinado",
+    "summary": "Ejercicio de triceps enfocado en extension triceps cable una mano supinado",
+    "description": "Extension Triceps Cable Una Mano Supinado es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension triceps cable una mano supinado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension triceps cable una mano supinado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/extension-triceps-cable-una-mano-supinado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "slug": "extension-triceps-tumbado",
+    "name": "Extension Triceps Tumbado",
+    "summary": "Ejercicio de triceps enfocado en extension triceps tumbado",
+    "description": "Extension Triceps Tumbado es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension triceps tumbado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension triceps tumbado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/extension-triceps-tumbado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "slug": "extension-triceps-agarre-inverso-barra",
+    "name": "Extension Triceps Agarre Inverso Barra",
+    "summary": "Ejercicio de triceps enfocado en extension triceps agarre inverso barra",
+    "description": "Extension Triceps Agarre Inverso Barra es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para extension triceps agarre inverso barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de extension triceps agarre inverso barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/extension-triceps-agarre-inverso-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "slug": "press-frances-sentado-barra",
+    "name": "Press Frances Sentado Barra",
+    "summary": "Ejercicio de triceps enfocado en press frances sentado barra",
+    "description": "Press Frances Sentado Barra es un excelente ejercicio para desarrollar y fortalecer triceps.",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para press frances sentado barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de press frances sentado barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/triceps/press-frances-sentado-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "slug": "remo-con-barra",
+    "name": "Remo Con Barra",
+    "summary": "Ejercicio de espalda enfocado en remo con barra",
+    "description": "Remo Con Barra es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para remo con barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de remo con barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/remo-con-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "slug": "peso-muerto-con-barra-hexagonal",
+    "name": "Peso Muerto Con Barra Hexagonal",
+    "summary": "Ejercicio de espalda enfocado en peso muerto con barra hexagonal",
+    "description": "Peso Muerto Con Barra Hexagonal es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "legs",
+      "glutes"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para peso muerto con barra hexagonal",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de peso muerto con barra hexagonal de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/peso-muerto-con-barra-hexagonal.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "slug": "pullover-con-mancuerna",
+    "name": "Pullover Con Mancuerna",
+    "summary": "Ejercicio de espalda enfocado en pullover con mancuerna",
+    "description": "Pullover Con Mancuerna es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para pullover con mancuerna",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de pullover con mancuerna de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/pullover-con-mancuerna.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "slug": "encogimiento-de-hombros-mancuernas",
+    "name": "Encogimiento De Hombros Mancuernas",
+    "summary": "Ejercicio de espalda enfocado en encogimiento de hombros mancuernas",
+    "description": "Encogimiento De Hombros Mancuernas es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para encogimiento de hombros mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de encogimiento de hombros mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/encogimiento-de-hombros-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "slug": "remo-en-barra-t",
+    "name": "Remo En Barra T",
+    "summary": "Ejercicio de espalda enfocado en remo en barra t",
+    "description": "Remo En Barra T es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para remo en barra t",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de remo en barra t de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/remo-en-barra-t.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "slug": "peso-muerto-con-mancuernas",
+    "name": "Peso Muerto Con Mancuernas",
+    "summary": "Ejercicio de espalda enfocado en peso muerto con mancuernas",
+    "description": "Peso Muerto Con Mancuernas es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "legs",
+      "glutes"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para peso muerto con mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de peso muerto con mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/peso-muerto-con-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "slug": "encogimiento-de-hombros-barra",
+    "name": "Encogimiento De Hombros Barra",
+    "summary": "Ejercicio de espalda enfocado en encogimiento de hombros barra",
+    "description": "Encogimiento De Hombros Barra es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para encogimiento de hombros barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de encogimiento de hombros barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/encogimiento-de-hombros-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "slug": "remo-maquina",
+    "name": "Remo Maquina",
+    "summary": "Ejercicio de espalda enfocado en remo maquina",
+    "description": "Remo Maquina es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para remo maquina",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de remo maquina de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/remo-maquina.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "slug": "dominadas",
+    "name": "Dominadas",
+    "summary": "Ejercicio de espalda enfocado en dominadas",
+    "description": "Dominadas es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para dominadas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de dominadas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/dominadas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "slug": "jalon-al-pecho-agarre-ancho",
+    "name": "Jalon Al Pecho Agarre Ancho",
+    "summary": "Ejercicio de espalda enfocado en jalon al pecho agarre ancho",
+    "description": "Jalon Al Pecho Agarre Ancho es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para jalon al pecho agarre ancho",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de jalon al pecho agarre ancho de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/jalon-al-pecho-agarre-ancho.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "slug": "jalon-dorsal-con-brazos-rectos",
+    "name": "Jalon Dorsal Con Brazos Rectos",
+    "summary": "Ejercicio de espalda enfocado en jalon dorsal con brazos rectos",
+    "description": "Jalon Dorsal Con Brazos Rectos es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para jalon dorsal con brazos rectos",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de jalon dorsal con brazos rectos de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/jalon-dorsal-con-brazos-rectos.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "slug": "pullover-con-barra",
+    "name": "Pullover Con Barra",
+    "summary": "Ejercicio de espalda enfocado en pullover con barra",
+    "description": "Pullover Con Barra es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para pullover con barra",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de pullover con barra de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/pullover-con-barra.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "slug": "peso-muerto",
+    "name": "Peso Muerto",
+    "summary": "Ejercicio de espalda enfocado en peso muerto",
+    "description": "Peso Muerto es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "legs",
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para peso muerto",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de peso muerto de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/peso-muerto.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "slug": "remo-con-barra-agarre-supinado",
+    "name": "Remo Con Barra Agarre Supinado",
+    "summary": "Ejercicio de espalda enfocado en remo con barra agarre supinado",
+    "description": "Remo Con Barra Agarre Supinado es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para remo con barra agarre supinado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de remo con barra agarre supinado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/remo-con-barra-agarre-supinado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "slug": "peso-muerto-sumo",
+    "name": "Peso Muerto Sumo",
+    "summary": "Ejercicio de espalda enfocado en peso muerto sumo",
+    "description": "Peso Muerto Sumo es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "legs",
+      "glutes"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para peso muerto sumo",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de peso muerto sumo de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/peso-muerto-sumo.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "slug": "remo-con-mancuerna-una-mano",
+    "name": "Remo Con Mancuerna Una Mano",
+    "summary": "Ejercicio de espalda enfocado en remo con mancuerna una mano",
+    "description": "Remo Con Mancuerna Una Mano es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para remo con mancuerna una mano",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de remo con mancuerna una mano de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/remo-con-mancuerna-una-mano.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "slug": "jalon-al-pecho-agarre-invertido",
+    "name": "Jalon Al Pecho Agarre Invertido",
+    "summary": "Ejercicio de espalda enfocado en jalon al pecho agarre invertido",
+    "description": "Jalon Al Pecho Agarre Invertido es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para jalon al pecho agarre invertido",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de jalon al pecho agarre invertido de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/jalon-al-pecho-agarre-invertido.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "slug": "jalon-polea-con-cuerda",
+    "name": "Jalon Polea Con Cuerda",
+    "summary": "Ejercicio de espalda enfocado en jalon polea con cuerda",
+    "description": "Jalon Polea Con Cuerda es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para jalon polea con cuerda",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de jalon polea con cuerda de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/jalon-polea-con-cuerda.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "slug": "dominadas-agarre-supinado",
+    "name": "Dominadas Agarre Supinado",
+    "summary": "Ejercicio de espalda enfocado en dominadas agarre supinado",
+    "description": "Dominadas Agarre Supinado es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para dominadas agarre supinado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de dominadas agarre supinado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/dominadas-agarre-supinado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "slug": "remo-inclinado-con-mancuernas",
+    "name": "Remo Inclinado Con Mancuernas",
+    "summary": "Ejercicio de espalda enfocado en remo inclinado con mancuernas",
+    "description": "Remo Inclinado Con Mancuernas es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para remo inclinado con mancuernas",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de remo inclinado con mancuernas de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Usa un peso apropiado para tu nivel"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/remo-inclinado-con-mancuernas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "slug": "jalon-al-pecho-agarre-cerrado",
+    "name": "Jalon Al Pecho Agarre Cerrado",
+    "summary": "Ejercicio de espalda enfocado en jalon al pecho agarre cerrado",
+    "description": "Jalon Al Pecho Agarre Cerrado es un excelente ejercicio para desarrollar y fortalecer espalda.",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Adopta la posición inicial correcta para jalon al pecho agarre cerrado",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Ejecución",
+        "instruction": "Realiza el movimiento de jalon al pecho agarre cerrado de forma controlada",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Retorno",
+        "instruction": "Regresa a la posición inicial de forma controlada",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén una postura correcta durante todo el ejercicio",
+      "Controla la respiración durante el movimiento",
+      "No uses momentum, enfócate en el control del peso",
+      "Enfócate en la técnica antes que en la velocidad"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/jalon-al-pecho-agarre-cerrado.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  }
+]

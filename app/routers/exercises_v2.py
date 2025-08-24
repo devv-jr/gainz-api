@@ -71,7 +71,12 @@ def slugify(name: str) -> str:
 
 
 def transform(old: dict) -> dict:
-    # Minimal transform: map old fields into v2 structure
+    # Check if data is already in v2 format
+    if old.get('steps') or old.get('tips') or old.get('images'):
+        # Data is already in v2 format, return as is
+        return old
+    
+    # Minimal transform: map old fields into v2 structure (for v1 data)
     now = datetime.utcnow().isoformat()
     steps = []
     if old.get('instructions'):
