@@ -1,3 +1,9 @@
 fastapi
 uvicorn[standard]
 gunicorn
+python-jose[cryptography]
+python-multipart
+python-dotenv
+pytest
+httpx
+slowapi

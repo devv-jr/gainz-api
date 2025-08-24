@@ -1,0 +1,38 @@
+[
+  {
+    "id": 101,
+    "slug": "push-up-advanced",
+    "name": "Push-up (Advanced)",
+    "summary": "Push-up con manos elevadas para mayor rango",
+    "description": "Variación de la flexión que aumenta el rango y la activación del pecho.",
+    "primary_muscle": "Pecho",
+    "secondary_muscles": ["Triceps", "Deltoides"],
+    "equipment": ["Peso corporal"],
+    "difficulty": "Intermedio",
+    "steps": [
+      {"order": 1, "instruction": "Colócate en posición de plancha."},
+      {"order": 2, "instruction": "Baja el torso manteniendo el core activado."},
+      {"order": 3, "instruction": "Empuja hacia arriba hasta extensión completa."}
+    ],
+    "tips": ["Mantén codos cerca del cuerpo."],
+    "images": [{"url": "/static/images/pushup.jpg", "type": "hero"}],
+    "tags": ["calistenia", "pecho"]
+  },
+  {
+    "id": 102,
+    "slug": "deadlift-conventional",
+    "name": "Peso muerto (Convencional)",
+    "summary": "Fundamental para fuerza posterior de cadena",
+    "description": "Mantén la espalda neutra y empuja con las caderas.",
+    "primary_muscle": "Espalda",
+    "secondary_muscles": ["Isquiotibiales", "Glúteos"],
+    "equipment": ["Barra"],
+    "difficulty": "Avanzado",
+    "steps": [
+      {"order": 1, "instruction": "Colócate con los pies hip-width y agarra la barra."},
+      {"order": 2, "instruction": "Inicia el levantamiento empujando las caderas hacia delante."}
+    ],
+    "images": [{"url": "/static/images/deadlift.jpg", "type": "hero"}],
+    "tags": ["fuerza", "piernas"]
+  }
+]
