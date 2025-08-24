@@ -16,6 +16,7 @@ from app.routers import exercises_v2
 from app.routers import images
 from app.routers import auth_router
 from app.config import setup_logging, settings
+from app.init_db import init_database
 
 # Configurar logging
 setup_logging()
@@ -25,10 +26,6 @@ load_dotenv()
 
 # Rate limiting
 limiter = Limiter(key_func=get_remote_address)
-
-# Leer ORIGINS como string y parsear una sola vez
-origins_env = os.getenv("ORIGINS", "")
-origins = [url.strip() for url in origins_env.split(",") if url.strip()]
 
 app = FastAPI(
     title="GainzAPI",
@@ -40,14 +37,27 @@ app = FastAPI(
 app.state.limiter = limiter
 app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
-# CORS middleware
+# CORS middleware - usar la configuración del settings
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,  # adjust in production
+    allow_origins=settings.ORIGINS if settings.ORIGINS != [""] else ["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Evento de startup para inicializar la base de datos
+@app.on_event("startup")
+async def startup_event():
+    """Inicializar base de datos al arrancar la aplicación"""
+    logger.info("Iniciando aplicación...")
+    try:
+        init_database()
+        db_type = "PostgreSQL" if settings.is_postgresql else "SQLite"
+        logger.info(f"Aplicación iniciada exitosamente con {db_type}")
+    except Exception as e:
+        logger.error(f"Error al inicializar la base de datos: {e}")
+        raise
 
 # Manejadores de errores globales
 @app.exception_handler(StarletteHTTPException)
@@ -74,6 +84,7 @@ async def general_exception_handler(request: Request, exc: Exception):
         content={"detail": "Internal server error", "status_code": 500}
     )
 
+# Incluir routers
 app.include_router(exercises.router, prefix="/v1/exercises", tags=["Exercises v1"])
 app.include_router(exercises_v2.router, prefix="/v2/exercises", tags=["Exercises v2"])
 app.include_router(images.router, prefix="/images", tags=["Images"])
@@ -81,11 +92,26 @@ app.include_router(auth_router.router, prefix="/auth", tags=["Auth"])
 
 @app.get("/", tags=["Info"])
 def root():
-    return {"message": "GainzAPI: v1 and v2 available", "v1": "/v1/exercises/", "v2": "/v2/exercises/"}
+    db_type = "PostgreSQL" if settings.is_postgresql else "SQLite"
+    environment = "production" if settings.is_postgresql else "development"
+    
+    return {
+        "message": "GainzAPI: v1 and v2 available", 
+        "v1": "/v1/exercises/", 
+        "v2": "/v2/exercises/",
+        "database": db_type,
+        "environment": environment
+    }
 
 @app.get("/health", tags=["Health"])
 def health_check():
-    return {"status": "healthy", "service": "GainzAPI"}
+    db_type = "PostgreSQL" if settings.is_postgresql else "SQLite"
+    return {
+        "status": "healthy", 
+        "service": "GainzAPI",
+        "database": db_type,
+        "database_url": settings.DATABASE_URL.split('@')[0] + '@***' if '@' in settings.DATABASE_URL else "SQLite local"
+    }
 
 # Mount static directory for development image serving
 app.mount("/static", StaticFiles(directory="static"), name="static")
