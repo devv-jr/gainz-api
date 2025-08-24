@@ -19,8 +19,18 @@ class Settings:
     ADMIN_USER: str = os.getenv("ADMIN_USER", "admin")
     ADMIN_PASS: str = os.getenv("ADMIN_PASS", "password")
     ORIGINS: str = os.getenv("ORIGINS", "exp://127.0.0.1:19000")
-    DATABASE_URL: str = str(Path(__file__).resolve().parent.parent / "data" / "exercises.db")
+    
+    # Database configuration - PostgreSQL in production, SQLite in development
+    DATABASE_URL: str = os.getenv("DATABASE_URL", str(Path(__file__).resolve().parent.parent / "data" / "exercises.db"))
+    
+    # Environment detection
+    ENVIRONMENT: str = os.getenv("ENVIRONMENT", "development")
+    
     MAX_FILE_SIZE: int = 5 * 1024 * 1024  # 5MB
     ALLOWED_FILE_TYPES = ["image/jpeg", "image/png", "image/webp"]
+    
+    @property
+    def is_production(self) -> bool:
+        return self.ENVIRONMENT == "production" or self.DATABASE_URL.startswith("postgresql://")
 
 settings = Settings()

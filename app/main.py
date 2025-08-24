@@ -81,7 +81,14 @@ app.include_router(auth_router.router, prefix="/auth", tags=["Auth"])
 
 @app.get("/", tags=["Info"])
 def root():
-    return {"message": "GainzAPI: v1 and v2 available", "v1": "/v1/exercises/", "v2": "/v2/exercises/"}
+    return {
+        "message": "GainzAPI: v1 and v2 available", 
+        "v1": "/v1/exercises/",
+        "v2": "/v2/exercises/",
+        "v2_stats": "/v2/exercises/stats",
+        "v2_migrate": "/v2/exercises/migrate",
+        "note": "v2 has more exercises and features. Use v2 for production."
+    }
 
 @app.get("/health", tags=["Health"])
 def health_check():
