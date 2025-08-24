@@ -13,6 +13,8 @@ from slowapi.errors import RateLimitExceeded
 
 from app.routers import exercises
 from app.routers import exercises_v2
+from app.routers import images
+from app.routers import auth_router
 from app.config import setup_logging, settings
 
 # Configurar logging
@@ -74,6 +76,8 @@ async def general_exception_handler(request: Request, exc: Exception):
 
 app.include_router(exercises.router, prefix="/v1/exercises", tags=["Exercises v1"])
 app.include_router(exercises_v2.router, prefix="/v2/exercises", tags=["Exercises v2"])
+app.include_router(images.router, prefix="/images", tags=["Images"])
+app.include_router(auth_router.router, prefix="/auth", tags=["Auth"])
 
 @app.get("/", tags=["Info"])
 def root():
@@ -85,9 +89,3 @@ def health_check():
 
 # Mount static directory for development image serving
 app.mount("/static", StaticFiles(directory="static"), name="static")
-
-# include image router
-from app.routers import images
-app.include_router(images.router, prefix="/images", tags=["Images"])
-from app.routers import auth_router
-app.include_router(auth_router.router, prefix="/auth", tags=["Auth"])
