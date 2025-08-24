@@ -1,8 +1,9 @@
 import os
 import sqlite3
 import psycopg2
+import psycopg2.extras  # ⭐ Agregamos esta importación
 from contextlib import contextmanager
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, text
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from .config import settings
@@ -35,34 +36,28 @@ def get_db():
     finally:
         db.close()
 
-@contextmanager 
+@contextmanager
 def get_db_connection():
-    """Get database connection based on environment"""
-    if settings.is_production:
-        # PostgreSQL connection
-        conn = psycopg2.connect(settings.DATABASE_URL)
-        try:
-            yield conn
-        finally:
-            conn.close()
+    """Context manager for database connections"""
+    if settings.is_postgresql:
+        # ⭐ Corrección: usar cursor_factory en la conexión
+        conn = psycopg2.connect(settings.DATABASE_URL, cursor_factory=psycopg2.extras.RealDictCursor)
     else:
-        # SQLite connection
-        db_path = settings.DATABASE_URL.replace("sqlite:///", "")
-        conn = sqlite3.connect(db_path)
-        try:
-            yield conn
-        finally:
-            conn.close()
+        conn = sqlite3.connect(settings.DATABASE_URL.replace("sqlite:///", ""))
+        conn.row_factory = sqlite3.Row
+    
+    try:
+        yield conn
+    finally:
+        conn.close()
 
 def init_database():
-    """Initialize database and create tables"""
+    """Initialize database tables"""
     try:
-        with get_db_connection() as conn:
-            cursor = conn.cursor()
-            
-            if settings.is_production:
-                # PostgreSQL table creation
-                cursor.execute("""
+        with engine.connect() as conn:
+            # Create exercises table
+            if settings.is_postgresql:
+                conn.execute(text("""
                     CREATE TABLE IF NOT EXISTS exercises (
                         id SERIAL PRIMARY KEY,
                         slug VARCHAR(255) UNIQUE NOT NULL,
@@ -72,21 +67,20 @@ def init_database():
                         primary_muscle VARCHAR(100),
                         secondary_muscles JSONB DEFAULT '[]',
                         equipment JSONB DEFAULT '[]',
-                        difficulty VARCHAR(20) DEFAULT 'intermediate',
+                        difficulty VARCHAR(50),
                         steps JSONB DEFAULT '[]',
                         tips JSONB DEFAULT '[]',
                         images JSONB DEFAULT '[]',
-                        video_url TEXT,
+                        video_url VARCHAR(500),
                         tags JSONB DEFAULT '[]',
                         variations JSONB DEFAULT '[]',
                         estimated JSONB,
                         created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                         updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
                     )
-                """)
+                """))
             else:
-                # SQLite table creation
-                cursor.execute("""
+                conn.execute(text("""
                     CREATE TABLE IF NOT EXISTS exercises (
                         id INTEGER PRIMARY KEY AUTOINCREMENT,
                         slug TEXT UNIQUE NOT NULL,
@@ -96,7 +90,7 @@ def init_database():
                         primary_muscle TEXT,
                         secondary_muscles TEXT DEFAULT '[]',
                         equipment TEXT DEFAULT '[]',
-                        difficulty TEXT DEFAULT 'intermediate',
+                        difficulty TEXT,
                         steps TEXT DEFAULT '[]',
                         tips TEXT DEFAULT '[]',
                         images TEXT DEFAULT '[]',
@@ -107,23 +101,18 @@ def init_database():
                         created_at TEXT DEFAULT CURRENT_TIMESTAMP,
                         updated_at TEXT DEFAULT CURRENT_TIMESTAMP
                     )
-                """)
-                
+                """))
             conn.commit()
-            print(f"Database initialized successfully with {settings.DATABASE_URL}")
-            
     except Exception as e:
         print(f"Error initializing database: {e}")
         raise
 
 def get_exercise_count():
-    """Get total number of exercises in database"""
+    """Get total count of exercises in database"""
     try:
-        with get_db_connection() as conn:
-            cursor = conn.cursor()
-            cursor.execute("SELECT COUNT(*) FROM exercises")
-            result = cursor.fetchone()
-            return result[0] if result else 0
+        with engine.connect() as conn:
+            result = conn.execute(text("SELECT COUNT(*) as count FROM exercises"))
+            return result.fetchone().count
     except Exception as e:
         print(f"Error getting exercise count: {e}")
         return 0
