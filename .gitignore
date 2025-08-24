@@ -134,6 +134,9 @@ logs/
 data/exercises.db
 *.db-journal
 
+# Test files
+test_database_config.py
+
 # Static files generated at runtime
 # static/images/*
 # !static/images/.gitkeep
