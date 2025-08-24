@@ -173,6 +173,44 @@ def get_exercises_v2(query: Optional[str] = Query(None), muscle: Optional[str] =
     end = start + limit
     return transformed[start:end]
 
+@router.get("/stats")
+def get_database_stats():
+    """Get database statistics and health info"""
+    try:
+        total_count = get_exercise_count()
+        
+        # Get muscle group counts
+        exercises = load_exercises_raw()
+        muscle_counts = {}
+        difficulty_counts = {}
+        equipment_counts = {}
+        
+        for exercise in exercises:
+            # Count by muscle group
+            muscle = exercise.get('primary_muscle', 'Unknown')
+            muscle_counts[muscle] = muscle_counts.get(muscle, 0) + 1
+            
+            # Count by difficulty
+            diff = exercise.get('difficulty', 'Unknown')
+            difficulty_counts[diff] = difficulty_counts.get(diff, 0) + 1
+            
+            # Count by equipment
+            for equip in exercise.get('equipment', []):
+                equipment_counts[equip] = equipment_counts.get(equip, 0) + 1
+        
+        return {
+            "total_exercises": total_count,
+            "database_type": "PostgreSQL" if settings.is_production else "SQLite",
+            "environment": settings.ENVIRONMENT,
+            "muscle_groups": muscle_counts,
+            "difficulty_levels": difficulty_counts,
+            "equipment_types": equipment_counts
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting stats: {e}")
+        raise HTTPException(status_code=500, detail=f"Error getting database stats: {str(e)}")
+
 @router.get("/{exercise_id}", response_model=ExerciseV2)
 def get_exercise_v2(exercise_id: int):
     raw = load_exercises_raw()
@@ -394,40 +432,135 @@ def migrate_now(auth=Depends(require_auth)):
         raise HTTPException(status_code=500, detail=f"Migration error: {str(e)}")
 
 
-@router.get("/stats")
-def get_database_stats():
-    """Get database statistics and health info"""
+@router.post("/force-migrate", status_code=200)
+def force_migrate_all(auth=Depends(require_auth)):
+    """Force complete migration, clearing existing data first and using complete JSON"""
     try:
-        total_count = get_exercise_count()
+        logger.info("Starting FORCE migration - clearing all existing data")
         
-        # Get muscle group counts
-        exercises = load_exercises_raw()
-        muscle_counts = {}
-        difficulty_counts = {}
-        equipment_counts = {}
+        # Clear existing data first
+        with get_db_connection() as conn:
+            cursor = conn.cursor()
+            if settings.is_production:
+                cursor.execute("DELETE FROM exercises")
+                cursor.execute("ALTER SEQUENCE exercises_id_seq RESTART WITH 1")
+            else:
+                cursor.execute("DELETE FROM exercises")
+                cursor.execute("DELETE FROM sqlite_sequence WHERE name='exercises'")
+            conn.commit()
         
-        for exercise in exercises:
-            # Count by muscle group
-            muscle = exercise.get('primary_muscle', 'Unknown')
-            muscle_counts[muscle] = muscle_counts.get(muscle, 0) + 1
+        logger.info("Existing data cleared, reading complete exercises...")
+        
+        # Read from exercises_complete.json instead of exercises.json
+        complete_data_file = Path(__file__).resolve().parent.parent.parent / "data" / "exercises_complete.json"
+        
+        if not complete_data_file.exists():
+            # Fallback to regular exercises.json
+            complete_data_file = DATA_FILE
+            logger.warning(f"Complete JSON not found, using: {complete_data_file}")
+        
+        with open(complete_data_file, 'r', encoding='utf-8') as f:
+            raw_exercises = json.load(f)
+        
+        logger.info(f"Force migrating {len(raw_exercises)} exercises from {complete_data_file.name}")
+        
+        # Insert all exercises
+        migrated_count = 0
+        with get_db_connection() as conn:
+            cursor = conn.cursor()
             
-            # Count by difficulty
-            diff = exercise.get('difficulty', 'Unknown')
-            difficulty_counts[diff] = difficulty_counts.get(diff, 0) + 1
+            for item in raw_exercises:
+                try:
+                    # Handle both v1 and v2 format
+                    steps_data = item.get('steps', [])
+                    if isinstance(steps_data, str):
+                        steps_data = [{"order": 1, "instruction": steps_data}]
+                    elif not steps_data and item.get('instructions'):
+                        steps_data = [{"order": 1, "instruction": item['instructions']}]
+                    
+                    # Handle images
+                    images_data = item.get('images', [])
+                    if isinstance(images_data, str):
+                        images_data = []
+                    
+                    # Handle equipment
+                    equipment_data = item.get('equipment', [])
+                    if isinstance(equipment_data, str):
+                        equipment_data = [equipment_data] if equipment_data else []
+                    
+                    if settings.is_production:
+                        # PostgreSQL insert
+                        cursor.execute("""
+                            INSERT INTO exercises (slug, name, summary, description, primary_muscle, 
+                                                 secondary_muscles, equipment, difficulty, steps, tips, 
+                                                 images, video_url, tags, variations, estimated, created_at, updated_at)
+                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                        """, (
+                            item.get('slug', slugify(item.get('name', ''))),
+                            item.get('name', ''),
+                            item.get('summary', (item.get('description') or item.get('instructions', ''))[:120]),
+                            item.get('description', item.get('instructions', '')),
+                            item.get('primary_muscle', item.get('muscle', '')),
+                            json.dumps(item.get('secondary_muscles', [])),
+                            json.dumps(equipment_data),
+                            item.get('difficulty', 'intermediate'),
+                            json.dumps(steps_data),
+                            json.dumps(item.get('tips', [])),
+                            json.dumps(images_data),
+                            item.get('video_url'),
+                            json.dumps(item.get('tags', [])),
+                            json.dumps(item.get('variations', [])),
+                            json.dumps(item.get('estimated')) if item.get('estimated') else None,
+                            item.get('created_at', datetime.utcnow().isoformat()),
+                            item.get('updated_at', datetime.utcnow().isoformat())
+                        ))
+                    else:
+                        # SQLite insert
+                        cursor.execute("""
+                            INSERT INTO exercises (slug, name, summary, description, primary_muscle, 
+                                                 secondary_muscles, equipment, difficulty, steps, tips, 
+                                                 images, video_url, tags, variations, estimated, created_at, updated_at)
+                            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        """, (
+                            item.get('slug', slugify(item.get('name', ''))),
+                            item.get('name', ''),
+                            item.get('summary', (item.get('description') or item.get('instructions', ''))[:120]),
+                            item.get('description', item.get('instructions', '')),
+                            item.get('primary_muscle', item.get('muscle', '')),
+                            json.dumps(item.get('secondary_muscles', [])),
+                            json.dumps(equipment_data),
+                            item.get('difficulty', 'intermediate'),
+                            json.dumps(steps_data),
+                            json.dumps(item.get('tips', [])),
+                            json.dumps(images_data),
+                            item.get('video_url'),
+                            json.dumps(item.get('tags', [])),
+                            json.dumps(item.get('variations', [])),
+                            json.dumps(item.get('estimated')) if item.get('estimated') else None,
+                            item.get('created_at', datetime.utcnow().isoformat()),
+                            item.get('updated_at', datetime.utcnow().isoformat())
+                        ))
+                    
+                    migrated_count += 1
+                    
+                except Exception as e:
+                    logger.error(f"Error migrating exercise {item.get('name', 'unknown')}: {e}")
+                    continue
             
-            # Count by equipment
-            for equip in exercise.get('equipment', []):
-                equipment_counts[equip] = equipment_counts.get(equip, 0) + 1
+            conn.commit()
+        
+        final_count = get_exercise_count()
+        logger.info(f"FORCE migration completed successfully. Migrated: {migrated_count}, Total: {final_count}")
         
         return {
-            "total_exercises": total_count,
-            "database_type": "PostgreSQL" if settings.is_production else "SQLite",
-            "environment": settings.ENVIRONMENT,
-            "muscle_groups": muscle_counts,
-            "difficulty_levels": difficulty_counts,
-            "equipment_types": equipment_counts
+            "status": "force_migrated", 
+            "migrated": migrated_count,
+            "total_count": final_count,
+            "source_file": complete_data_file.name,
+            "database_type": "PostgreSQL" if settings.is_production else "SQLite"
         }
         
     except Exception as e:
-        logger.error(f"Error getting stats: {e}")
-        raise HTTPException(status_code=500, detail=f"Error getting database stats: {str(e)}")
+        logger.error(f"Force migration error: {e}")
+        raise HTTPException(status_code=500, detail=f"Force migration error: {str(e)}")
+
