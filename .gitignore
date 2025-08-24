@@ -135,5 +135,5 @@ data/exercises.db
 *.db-journal
 
 # Static files generated at runtime
-static/images/*
-!static/images/.gitkeep
+# static/images/*
+# !static/images/.gitkeep

@@ -1,0 +1,397 @@
+[
+  {
+    "id": 1,
+    "slug": "press-de-banca",
+    "name": "Press de banca",
+    "summary": "Ejercicio fundamental para el desarrollo del pecho con barra",
+    "description": "El press de banca es uno de los ejercicios más populares para desarrollar la fuerza y masa muscular del pecho, hombros y tríceps.",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": ["barbell", "bench"],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Acuéstate en un banco plano con los pies firmemente plantados en el suelo",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Agarre",
+        "instruction": "Agarra la barra con las manos ligeramente más abiertas que el ancho de hombros",
+        "duration_sec": null
+      },
+      {
+        "order": 3,
+        "title": "Descenso",
+        "instruction": "Baja la barra de forma controlada hasta tocar ligeramente el pecho",
+        "duration_sec": 2
+      },
+      {
+        "order": 4,
+        "title": "Empuje",
+        "instruction": "Empuja la barra hacia arriba hasta extensión completa de brazos",
+        "duration_sec": 1
+      }
+    ],
+    "tips": [
+      "Mantén los omóplatos retraídos durante todo el movimiento",
+      "No rebotes la barra en el pecho",
+      "Controla la respiración: inhala en el descenso, exhala en el empuje"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/press-banca.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "video_url": null,
+    "tags": ["chest", "compound", "strength", "barbell"],
+    "variations": [
+      {
+        "name": "Press de banca inclinado",
+        "difficulty": "intermediate",
+        "description": "Variación en banco inclinado para enfoque en pecho superior"
+      }
+    ],
+    "estimated": {
+      "sets": 3,
+      "reps_min": 6,
+      "reps_max": 10,
+      "rest_sec": 120
+    },
+    "created_at": "2025-08-23T10:00:00Z",
+    "updated_at": "2025-08-23T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "slug": "flexiones",
+    "name": "Flexiones",
+    "summary": "Ejercicio básico de peso corporal para pecho, tríceps y hombros",
+    "description": "Las flexiones son un ejercicio fundamental que trabaja múltiples grupos musculares usando únicamente el peso corporal.",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders", "core"],
+    "equipment": ["bodyweight"],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Colócate en posición de plancha con las manos a la anchura de los hombros",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Descenso controlado",
+        "instruction": "Baja el pecho hacia el suelo manteniendo el cuerpo recto",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Empuje",
+        "instruction": "Empuja hacia arriba hasta la posición inicial",
+        "duration_sec": 1
+      }
+    ],
+    "tips": [
+      "Mantén el core contraído durante todo el movimiento",
+      "No dejes que las caderas se hundan",
+      "Controla tanto la bajada como la subida"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/pectorales/flexiones.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "video_url": null,
+    "tags": ["chest", "bodyweight", "beginner", "compound"],
+    "variations": [
+      {
+        "name": "Flexiones en rodillas",
+        "difficulty": "beginner",
+        "description": "Versión modificada para principiantes"
+      }
+    ],
+    "estimated": {
+      "sets": 3,
+      "reps_min": 8,
+      "reps_max": 15,
+      "rest_sec": 60
+    },
+    "created_at": "2025-08-23T10:00:00Z",
+    "updated_at": "2025-08-23T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "slug": "dominadas",
+    "name": "Dominadas",
+    "summary": "Ejercicio de peso corporal para espalda y bíceps",
+    "description": "Las dominadas son uno de los mejores ejercicios para desarrollar la fuerza y masa muscular de la espalda y bíceps.",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders", "core"],
+    "equipment": ["pullup-bar"],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Agarre",
+        "instruction": "Agarra la barra con las palmas hacia adelante, manos al ancho de hombros",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Colgado",
+        "instruction": "Cuélgate con los brazos completamente extendidos",
+        "duration_sec": null
+      },
+      {
+        "order": 3,
+        "title": "Subida",
+        "instruction": "Sube el cuerpo hasta que la barbilla pase por encima de la barra",
+        "duration_sec": 2
+      },
+      {
+        "order": 4,
+        "title": "Descenso",
+        "instruction": "Baja de forma controlada hasta la posición inicial",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "No uses impulso para subir",
+      "Activa el core para evitar balanceo",
+      "Controla el descenso para máximo beneficio"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/dominadas.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "video_url": null,
+    "tags": ["back", "bodyweight", "compound", "strength"],
+    "variations": [
+      {
+        "name": "Dominadas supinas",
+        "difficulty": "intermediate",
+        "description": "Con palmas hacia ti, mayor énfasis en bíceps"
+      }
+    ],
+    "estimated": {
+      "sets": 3,
+      "reps_min": 3,
+      "reps_max": 8,
+      "rest_sec": 90
+    },
+    "created_at": "2025-08-23T10:00:00Z",
+    "updated_at": "2025-08-23T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "slug": "peso-muerto",
+    "name": "Peso muerto",
+    "summary": "Ejercicio compuesto fundamental para posterior y core",
+    "description": "El peso muerto es uno de los mejores ejercicios para desarrollar fuerza general, trabajando isquiosurales, glúteos, espalda baja y core.",
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": ["glutes", "lower-back", "traps", "core"],
+    "equipment": ["barbell", "plates"],
+    "difficulty": "advanced",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Preparación",
+        "instruction": "Coloca los pies a la anchura de caderas, barra sobre medios pies",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Agarre",
+        "instruction": "Agarra la barra con agarre prono, manos a la anchura de hombros",
+        "duration_sec": null
+      },
+      {
+        "order": 3,
+        "title": "Levantamiento",
+        "instruction": "Levanta manteniendo espalda recta, extendiendo caderas y rodillas",
+        "duration_sec": 3
+      },
+      {
+        "order": 4,
+        "title": "Descenso",
+        "instruction": "Baja la barra de forma controlada siguiendo el mismo patrón",
+        "duration_sec": 3
+      }
+    ],
+    "tips": [
+      "Mantén la barra cerca del cuerpo durante todo el movimiento",
+      "No redondees la espalda baja",
+      "El movimiento inicia desde las caderas, no desde la espalda"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/espalda/peso-muerto.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "video_url": null,
+    "tags": ["hamstrings", "compound", "strength", "deadlift"],
+    "variations": [
+      {
+        "name": "Peso muerto rumano",
+        "difficulty": "intermediate",
+        "description": "Enfoque en isquiosurales con menor flexión de rodillas"
+      },
+      {
+        "name": "Peso muerto sumo",
+        "difficulty": "advanced",
+        "description": "Posición más amplia, mayor activación de glúteos"
+      }
+    ],
+    "estimated": {
+      "sets": 3,
+      "reps_min": 3,
+      "reps_max": 6,
+      "rest_sec": 180
+    },
+    "created_at": "2025-08-23T10:00:00Z",
+    "updated_at": "2025-08-23T10:00:00Z"
+  },
+  {
+    "id": 13,
+    "slug": "sentadilla",
+    "name": "Sentadilla",
+    "summary": "Ejercicio compuesto fundamental para piernas y glúteos",
+    "description": "La sentadilla es el ejercicio rey para el desarrollo de piernas y glúteos, trabajando múltiples grupos musculares.",
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": ["glutes", "hamstrings", "calves", "core"],
+    "equipment": ["barbell", "squat-rack"],
+    "difficulty": "intermediate",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Preparación",
+        "instruction": "Coloca la barra sobre los hombros, pies al ancho de hombros",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Descenso",
+        "instruction": "Flexiona rodillas y caderas bajando como si te sentaras en una silla",
+        "duration_sec": 2
+      },
+      {
+        "order": 3,
+        "title": "Punto bajo",
+        "instruction": "Baja hasta que los muslos estén paralelos al suelo",
+        "duration_sec": null
+      },
+      {
+        "order": 4,
+        "title": "Subida",
+        "instruction": "Empuja con los talones para volver a la posición inicial",
+        "duration_sec": 2
+      }
+    ],
+    "tips": [
+      "Mantén el pecho arriba y la espalda recta",
+      "Las rodillas deben seguir la dirección de los pies",
+      "No dejes que las rodillas se vayan hacia adentro"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/piernas/sentadilla.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "video_url": null,
+    "tags": ["quadriceps", "compound", "strength", "squat"],
+    "variations": [
+      {
+        "name": "Sentadilla frontal",
+        "difficulty": "advanced",
+        "description": "Barra en la parte frontal, mayor énfasis en cuádriceps"
+      }
+    ],
+    "estimated": {
+      "sets": 3,
+      "reps_min": 6,
+      "reps_max": 12,
+      "rest_sec": 120
+    },
+    "created_at": "2025-08-23T10:00:00Z",
+    "updated_at": "2025-08-23T10:00:00Z"
+  },
+  {
+    "id": 21,
+    "slug": "plancha",
+    "name": "Plancha",
+    "summary": "Ejercicio isométrico fundamental para el core",
+    "description": "La plancha es un ejercicio isométrico excelente para fortalecer el core, hombros y estabilidad general.",
+    "primary_muscle": "core",
+    "secondary_muscles": ["shoulders", "glutes"],
+    "equipment": ["bodyweight"],
+    "difficulty": "beginner",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Posición inicial",
+        "instruction": "Apóyate en antebrazos y pies, codos directamente bajo los hombros",
+        "duration_sec": null
+      },
+      {
+        "order": 2,
+        "title": "Alineación",
+        "instruction": "Mantén el cuerpo en línea recta desde la cabeza hasta los talones",
+        "duration_sec": null
+      },
+      {
+        "order": 3,
+        "title": "Mantener",
+        "instruction": "Mantén la posición contrayendo el core y respirando normalmente",
+        "duration_sec": 30
+      }
+    ],
+    "tips": [
+      "No dejes que las caderas se hundan o se eleven",
+      "Mantén el cuello neutro mirando al suelo",
+      "Respira de forma controlada durante todo el ejercicio"
+    ],
+    "images": [
+      {
+        "url": "https://gainz-api.onrender.com/static/images/abs/plancha.png",
+        "type": "demonstration",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "video_url": null,
+    "tags": ["core", "isometric", "bodyweight", "stability"],
+    "variations": [
+      {
+        "name": "Plancha lateral",
+        "difficulty": "intermediate",
+        "description": "Trabajo unilateral del core"
+      }
+    ],
+    "estimated": {
+      "sets": 3,
+      "reps_min": null,
+      "reps_max": null,
+      "rest_sec": 60
+    },
+    "created_at": "2025-08-23T10:00:00Z",
+    "updated_at": "2025-08-23T10:00:00Z"
+  }
+]
