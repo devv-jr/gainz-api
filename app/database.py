@@ -1,6 +1,7 @@
 import os
 import sqlite3
 import psycopg2
+import psycopg2.extras  # ⭐ Agregamos esta importación
 from contextlib import contextmanager
 from sqlalchemy import create_engine, text
 from sqlalchemy.ext.declarative import declarative_base
@@ -39,8 +40,8 @@ def get_db():
 def get_db_connection():
     """Context manager for database connections"""
     if settings.is_postgresql:
-        conn = psycopg2.connect(settings.DATABASE_URL)
-        conn.row_factory = psycopg2.extras.RealDictCursor
+        # ⭐ Corrección: usar cursor_factory en la conexión
+        conn = psycopg2.connect(settings.DATABASE_URL, cursor_factory=psycopg2.extras.RealDictCursor)
     else:
         conn = sqlite3.connect(settings.DATABASE_URL.replace("sqlite:///", ""))
         conn.row_factory = sqlite3.Row
